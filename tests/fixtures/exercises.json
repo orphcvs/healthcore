@@ -1,0 +1,414 @@
+[
+ {
+  "id": "lh-bankdruecken",
+  "name": "Bankdrücken",
+  "pattern": "push_h",
+  "role": "heavy",
+  "level": 3,
+  "equipment": "Langhantel, Flachbank",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [
+   "schulter_vorne",
+   "trizeps_kurz"
+  ],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "liegestuetz",
+  "name": "Liegestütz",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [
+   "trizeps_kurz",
+   "schulter_vorne"
+  ],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "kh-bodendruecken",
+  "name": "Bodendrücken",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [
+   "trizeps_kurz"
+  ],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "kh-seitheben",
+  "name": "Seitheben",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "schulter_seite"
+  ],
+  "secondary": [],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "kabel-seitheben",
+  "name": "Seitheben am Kabel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "schulter_seite"
+  ],
+  "secondary": [],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "kh-reverse-fly",
+  "name": "Reverse Fly",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "schulter_hinten"
+  ],
+  "secondary": [
+   "trapez_mitte"
+  ],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "kh-trizeps-ueberkopf",
+  "name": "Trizeps über Kopf",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhantel",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "trizeps_lang"
+  ],
+  "secondary": [],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "lh-kniebeuge",
+  "name": "Kniebeuge",
+  "pattern": "squat",
+  "role": "heavy",
+  "level": 3,
+  "equipment": "Langhantel, Rack",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "quadrizeps",
+   "gluteus_max"
+  ],
+  "secondary": [
+   "adduktoren"
+  ],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "kniebeuge-koerpergewicht",
+  "name": "Kniebeuge ohne Gewicht",
+  "pattern": "squat",
+  "role": "compound",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "quadrizeps"
+  ],
+  "secondary": [
+   "gluteus_max"
+  ],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "kh-bulgarian-split-squat",
+  "name": "Bulgarian Split Squat",
+  "pattern": "squat",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "quadrizeps",
+   "gluteus_max"
+  ],
+  "secondary": [
+   "adduktoren"
+  ],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "kh-wadenheben-sitzend",
+  "name": "Wadenheben sitzend",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "soleus"
+  ],
+  "secondary": [],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "maschine-wadenheben-stehend",
+  "name": "Wadenheben stehend",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Wadenmaschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "wade"
+  ],
+  "secondary": [],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "klimmzug",
+  "name": "Klimmzug",
+  "pattern": "pull_v",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Klimmzugstange",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "lat"
+  ],
+  "secondary": [
+   "bizeps"
+  ],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ },
+ {
+  "id": "kh-bizepscurl",
+  "name": "Bizepscurl",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "bizeps"
+  ],
+  "secondary": [],
+  "source": "x",
+  "setup": "x",
+  "steps": [
+   "x",
+   "x",
+   "x"
+  ],
+  "cues": [
+   "x",
+   "x"
+  ],
+  "mistakes": [
+   "x"
+  ]
+ }
+]

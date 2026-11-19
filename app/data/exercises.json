@@ -1,0 +1,3561 @@
+[
+ {
+  "id": "lh-bankdruecken",
+  "name": "Bankdrücken mit Langhantel",
+  "pattern": "push_h",
+  "role": "heavy",
+  "level": 3,
+  "equipment": "Langhantel und Flachbank",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [
+   "schulter_vorne",
+   "trizeps_kurz"
+  ],
+  "source": "Barbell_Bench_Press_-_Medium_Grip",
+  "setup": "Leg dich so auf die Flachbank, dass die Stange über deinen Augen ist. Greif etwas weiter als schulterbreit, die Füße stehen fest am Boden.",
+  "steps": [
+   "Zieh die Schulterblätter zusammen und nach unten, so dass die Brust leicht nach oben zeigt.",
+   "Heb die Stange aus der Ablage und bring sie über die Schultern.",
+   "Senk sie kontrolliert bis knapp unter die Brustwarzen, die Ellbogen zeigen schräg nach unten.",
+   "Drück die Stange zurück nach oben, bis die Arme fast gestreckt sind."
+  ],
+  "cues": [
+   "Schulterblätter bleiben die ganze Zeit zusammengezogen.",
+   "Unterarme stehen unten senkrecht unter der Stange."
+  ],
+  "mistakes": [
+   "Die Stange auf der Brust abfedern lassen.",
+   "Den Po beim Drücken von der Bank heben."
+  ]
+ },
+ {
+  "id": "kh-bankdruecken",
+  "name": "Bankdrücken mit Kurzhanteln",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Kurzhanteln und Flachbank",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [
+   "schulter_vorne",
+   "trizeps_kurz"
+  ],
+  "source": "Dumbbell_Bench_Press",
+  "setup": "Setz dich mit den Kurzhanteln auf die Knie gestützt ans Bankende und leg dich dann zurück. Die Hanteln sind über der Brust.",
+  "steps": [
+   "Zieh die Schulterblätter zusammen und stell die Füße fest auf.",
+   "Senk die Hanteln seitlich neben die Brust, bis du eine Dehnung spürst.",
+   "Drück sie in einem leichten Bogen wieder nach oben zusammen."
+  ],
+  "cues": [
+   "Die Ellbogen zeigen schräg nach unten, nicht gerade zur Seite.",
+   "Unten kurz in der Dehnung bleiben, dann kraftvoll drücken."
+  ],
+  "mistakes": [
+   "Die Hanteln oben laut zusammenschlagen.",
+   "Zu weit absenken, bis die Schultern nach vorn kippen."
+  ]
+ },
+ {
+  "id": "maschine-brustpresse",
+  "name": "Brustpresse an der Maschine",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Brustpresse",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [
+   "schulter_vorne",
+   "trizeps_kurz"
+  ],
+  "source": "Machine_Bench_Press",
+  "setup": "Stell den Sitz so ein, dass die Griffe auf Höhe der Brust sind. Rücken und Kopf liegen am Polster.",
+  "steps": [
+   "Greif die Griffe und zieh die Schulterblätter zusammen.",
+   "Drück die Griffe nach vorn, bis die Arme fast gestreckt sind.",
+   "Führ sie langsam zurück, bis die Hände neben der Brust sind."
+  ],
+  "cues": [
+   "Die Schultern bleiben unten und hinten.",
+   "Zurück langsamer als nach vorn."
+  ],
+  "mistakes": [
+   "Die Arme ganz durchstrecken und das Gewicht auf den Gelenken parken."
+  ]
+ },
+ {
+  "id": "kh-bodendruecken",
+  "name": "Bodendrücken mit Kurzhanteln",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [
+   "trizeps_kurz",
+   "schulter_vorne"
+  ],
+  "source": "Dumbbell_Floor_Press",
+  "setup": "Leg dich mit angewinkelten Beinen auf den Boden. Halte die Kurzhanteln mit gestreckten Armen über der Brust.",
+  "steps": [
+   "Senk die Hanteln, bis die Oberarme den Boden berühren.",
+   "Halte unten kurz an, ohne die Arme abzulegen.",
+   "Drück die Hanteln wieder nach oben über die Brust."
+  ],
+  "cues": [
+   "Die Ellbogen stehen etwa 45 Grad vom Körper ab.",
+   "Der Boden begrenzt die Bewegung, das schont die Schultern."
+  ],
+  "mistakes": [
+   "Die Ellbogen auf den Boden fallen lassen und abfedern."
+  ]
+ },
+ {
+  "id": "liegestuetz",
+  "name": "Liegestütz",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [
+   "trizeps_kurz",
+   "schulter_vorne",
+   "bauch"
+  ],
+  "source": "Pushups",
+  "setup": "Stütz dich mit den Händen etwas weiter als schulterbreit auf den Boden. Der Körper bildet von Kopf bis Fuß eine Linie.",
+  "steps": [
+   "Spann Bauch und Po an.",
+   "Senk die Brust, bis sie knapp über dem Boden ist.",
+   "Drück dich wieder hoch, bis die Arme gestreckt sind."
+  ],
+  "cues": [
+   "Die Ellbogen zeigen schräg nach hinten.",
+   "Kopf in Verlängerung der Wirbelsäule halten."
+  ],
+  "mistakes": [
+   "Die Hüfte durchhängen lassen.",
+   "Nur den Kopf statt der Brust absenken."
+  ]
+ },
+ {
+  "id": "liegestuetz-schraeg",
+  "name": "Liegestütz mit erhöhten Händen",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 1,
+  "equipment": "Körpergewicht und Stuhl oder Tisch",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [
+   "trizeps_kurz",
+   "schulter_vorne"
+  ],
+  "source": "Incline_Push-Up",
+  "setup": "Stütz die Hände auf eine stabile Kante, zum Beispiel einen Tisch oder eine Bank. Je höher die Kante, desto leichter.",
+  "steps": [
+   "Geh mit den Füßen zurück, bis der Körper gerade ist.",
+   "Senk die Brust zur Kante.",
+   "Drück dich zurück in die Ausgangsposition."
+  ],
+  "cues": [
+   "Gute Einstiegsvariante, bis zehn normale Liegestütze gehen.",
+   "Körper bleibt eine gerade Linie."
+  ],
+  "mistakes": [
+   "Einen Stuhl nehmen, der wegrutschen kann."
+  ]
+ },
+ {
+  "id": "liegestuetz-fuesse-erhoeht",
+  "name": "Liegestütz mit erhöhten Füßen",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 1,
+  "equipment": "Körpergewicht und Stuhl",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "brust_oben"
+  ],
+  "secondary": [
+   "brust",
+   "schulter_vorne",
+   "trizeps_kurz"
+  ],
+  "source": "Push-Ups_With_Feet_Elevated",
+  "setup": "Leg die Füße auf einen Stuhl oder eine Bank und stütz die Hände schulterbreit auf den Boden.",
+  "steps": [
+   "Spann den ganzen Körper an.",
+   "Senk die Brust kontrolliert zum Boden.",
+   "Drück dich wieder nach oben."
+  ],
+  "cues": [
+   "Durch die Schräglage arbeitet die obere Brust stärker.",
+   "Langsam absenken, zügig drücken."
+  ],
+  "mistakes": [
+   "Die Hüfte nach oben schieben, so dass ein Dach entsteht."
+  ]
+ },
+ {
+  "id": "dips-brust",
+  "name": "Dips für die Brust",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Barren",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [
+   "trizeps_kurz",
+   "schulter_vorne"
+  ],
+  "source": "Dips_-_Chest_Version",
+  "setup": "Stütz dich mit gestreckten Armen auf den Barren. Beug den Oberkörper leicht nach vorn.",
+  "steps": [
+   "Senk dich ab, indem du die Ellbogen beugst, bis die Oberarme etwa waagerecht sind.",
+   "Halte die Vorlage, damit die Brust die Arbeit macht.",
+   "Drück dich wieder nach oben."
+  ],
+  "cues": [
+   "Die Ellbogen zeigen leicht nach außen.",
+   "Nur so tief, wie es für die Schultern angenehm ist."
+  ],
+  "mistakes": [
+   "Aufrecht bleiben, dann arbeitet vor allem der Trizeps.",
+   "Unten aus der Dehnung federn."
+  ]
+ },
+ {
+  "id": "kabel-crossover",
+  "name": "Cable Crossover",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [],
+  "source": "Cable_Crossover",
+  "setup": "Stell die Rollen oben ein und greif beide Griffe. Mach einen Schritt nach vorn und beug dich leicht vor.",
+  "steps": [
+   "Die Arme sind leicht gebeugt und seitlich geöffnet.",
+   "Zieh die Griffe in einem Bogen vor dem Körper zusammen.",
+   "Führ sie langsam zurück, bis du eine Dehnung in der Brust spürst."
+  ],
+  "cues": [
+   "Der Winkel im Ellbogen bleibt die ganze Zeit gleich.",
+   "Vorne kurz die Brust zusammendrücken."
+  ],
+  "mistakes": [
+   "Mit den Armen drücken statt einen Bogen zu ziehen."
+  ]
+ },
+ {
+  "id": "butterfly",
+  "name": "Butterfly an der Maschine",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Butterfly-Maschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [],
+  "source": "Butterfly",
+  "setup": "Stell den Sitz so ein, dass die Griffe auf Brusthöhe sind. Rücken liegt am Polster.",
+  "steps": [
+   "Greif die Griffe mit leicht gebeugten Armen.",
+   "Führ die Arme vor der Brust zusammen.",
+   "Lass sie langsam zurück, bis die Brust gedehnt ist."
+  ],
+  "cues": [
+   "Schultern bleiben unten.",
+   "Hinten nicht weiter als bis zur Dehnung gehen."
+  ],
+  "mistakes": [
+   "Mit Schwung arbeiten und das Gewicht zurückschlagen lassen."
+  ]
+ },
+ {
+  "id": "band-crossover",
+  "name": "Crossover mit Widerstandsband",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Widerstandsband",
+  "bodyweight": false,
+  "step": 0,
+  "primary": [
+   "brust"
+  ],
+  "secondary": [],
+  "source": "Cross_Over_-_With_Bands",
+  "setup": "Befestige das Band in Brusthöhe hinter dir, zum Beispiel an einer Tür, und halte die Enden mit seitlich geöffneten Armen.",
+  "steps": [
+   "Mach einen Schritt nach vorn, bis das Band gespannt ist.",
+   "Führ die Arme in einem Bogen vor der Brust zusammen.",
+   "Lass sie langsam zurück."
+  ],
+  "cues": [
+   "Ellbogen leicht gebeugt lassen.",
+   "Stärkeres Band oder mehr Abstand, wenn es zu leicht wird."
+  ],
+  "mistakes": [
+   "Das Band unkontrolliert zurückschnellen lassen."
+  ]
+ },
+ {
+  "id": "lh-schraegbankdruecken",
+  "name": "Schrägbankdrücken mit Langhantel",
+  "pattern": "push_h",
+  "role": "heavy",
+  "level": 3,
+  "equipment": "Langhantel und Schrägbank",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "brust_oben"
+  ],
+  "secondary": [
+   "schulter_vorne",
+   "trizeps_kurz",
+   "brust"
+  ],
+  "source": "Barbell_Incline_Bench_Press_-_Medium_Grip",
+  "setup": "Stell die Bank auf 30 bis 45 Grad. Greif die Stange etwas weiter als schulterbreit.",
+  "steps": [
+   "Zieh die Schulterblätter zusammen und heb die Stange aus.",
+   "Senk sie zur oberen Brust, knapp unter das Schlüsselbein.",
+   "Drück sie senkrecht nach oben, bis die Arme fast gestreckt sind."
+  ],
+  "cues": [
+   "Je flacher die Bank, desto mehr Brust und weniger Schulter.",
+   "Füße fest am Boden."
+  ],
+  "mistakes": [
+   "Die Bank zu steil stellen, dann wird es ein Schulterdrücken."
+  ]
+ },
+ {
+  "id": "kh-schraegbankdruecken",
+  "name": "Schrägbankdrücken mit Kurzhanteln",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Kurzhanteln und Schrägbank",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "brust_oben"
+  ],
+  "secondary": [
+   "schulter_vorne",
+   "trizeps_kurz"
+  ],
+  "source": "Incline_Dumbbell_Press",
+  "setup": "Stell die Bank auf 30 bis 45 Grad, setz dich und leg die Hanteln auf die Oberschenkel. Leg dich zurück und bring sie über die Brust.",
+  "steps": [
+   "Senk die Hanteln seitlich neben die obere Brust.",
+   "Drück sie in einem leichten Bogen nach oben.",
+   "Oben nicht ganz durchstrecken und wieder absenken."
+  ],
+  "cues": [
+   "Unten tief in die Dehnung gehen.",
+   "Schulterblätter bleiben hinten."
+  ],
+  "mistakes": [
+   "Die Hanteln zu weit über den Kopf drücken."
+  ]
+ },
+ {
+  "id": "kabel-crossover-tief",
+  "name": "Crossover von unten",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "brust_oben"
+  ],
+  "secondary": [
+   "schulter_vorne"
+  ],
+  "source": "Low_Cable_Crossover",
+  "setup": "Stell die Rollen ganz unten ein und greif beide Griffe. Stell dich mittig zwischen die Türme.",
+  "steps": [
+   "Die Arme sind leicht gebeugt und hängen seitlich nach unten.",
+   "Zieh die Griffe in einem Bogen schräg nach oben vor die Brust.",
+   "Führ sie langsam zurück nach unten."
+  ],
+  "cues": [
+   "Der Weg von unten nach oben trifft die obere Brust.",
+   "Vorne kurz halten."
+  ],
+  "mistakes": [
+   "Die Schultern zu den Ohren ziehen."
+  ]
+ },
+ {
+  "id": "liegestuetz-plus",
+  "name": "Liegestütz plus",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "serratus"
+  ],
+  "secondary": [
+   "brust",
+   "trizeps_kurz"
+  ],
+  "source": "Pushups",
+  "setup": "Geh in die Liegestützposition, Hände schulterbreit, der Körper gerade.",
+  "steps": [
+   "Mach einen normalen Liegestütz.",
+   "Wenn die Arme oben gestreckt sind, drück den Boden noch weiter weg, so dass sich die Schulterblätter auseinanderschieben.",
+   "Halte das kurz und geh in den nächsten Liegestütz."
+  ],
+  "cues": [
+   "Das Plus am Ende ist der Teil für den Sägemuskel.",
+   "Der obere Rücken wölbt sich dabei leicht."
+  ],
+  "mistakes": [
+   "Das Plus mit einem Hohlkreuz verwechseln."
+  ]
+ },
+ {
+  "id": "kh-pullover",
+  "name": "Pullover mit Kurzhantel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kurzhantel und Flachbank",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "serratus",
+   "lat"
+  ],
+  "secondary": [
+   "brust",
+   "trizeps_lang"
+  ],
+  "source": "Straight-Arm_Dumbbell_Pullover",
+  "setup": "Leg dich quer oder längs auf die Bank und halte eine Kurzhantel mit beiden Händen über der Brust.",
+  "steps": [
+   "Die Arme sind fast gestreckt.",
+   "Führ die Hantel in einem Bogen hinter den Kopf, bis du eine Dehnung im Brustkorb spürst.",
+   "Zieh sie auf demselben Weg zurück über die Brust."
+  ],
+  "cues": [
+   "Der Winkel im Ellbogen ändert sich nicht.",
+   "Langsam in die Dehnung, dort kurz halten."
+  ],
+  "mistakes": [
+   "Zu schwer wählen und die Bewegung mit den Armen beugen."
+  ]
+ },
+ {
+  "id": "lh-schulterdruecken",
+  "name": "Schulterdrücken mit Langhantel",
+  "pattern": "push_v",
+  "role": "heavy",
+  "level": 3,
+  "equipment": "Langhantel und Rack",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "schulter_vorne"
+  ],
+  "secondary": [
+   "schulter_seite",
+   "trizeps_kurz",
+   "brust_oben"
+  ],
+  "source": "Standing_Military_Press",
+  "setup": "Nimm die Stange auf Schulterhöhe aus dem Rack, Griff etwas weiter als schulterbreit. Stell die Füße hüftbreit.",
+  "steps": [
+   "Spann Bauch und Po fest an.",
+   "Drück die Stange senkrecht über den Kopf, der Kopf geht dabei kurz zurück und dann wieder nach vorn.",
+   "Senk die Stange kontrolliert zurück auf die obere Brust."
+  ],
+  "cues": [
+   "Oben steht die Stange über der Fußmitte.",
+   "Kein Schwung aus den Beinen."
+  ],
+  "mistakes": [
+   "Ins Hohlkreuz fallen, um mehr Gewicht zu bewegen."
+  ]
+ },
+ {
+  "id": "kh-schulterdruecken",
+  "name": "Schulterdrücken mit Kurzhanteln",
+  "pattern": "push_v",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "schulter_vorne"
+  ],
+  "secondary": [
+   "schulter_seite",
+   "trizeps_kurz"
+  ],
+  "source": "Standing_Dumbbell_Press",
+  "setup": "Stell dich hüftbreit hin und halte die Kurzhanteln auf Schulterhöhe, Handflächen nach vorn.",
+  "steps": [
+   "Spann den Rumpf an.",
+   "Drück die Hanteln nach oben, bis die Arme fast gestreckt sind.",
+   "Senk sie langsam zurück auf Schulterhöhe."
+  ],
+  "cues": [
+   "Die Unterarme stehen senkrecht.",
+   "Geht auch im Sitzen auf einem Stuhl."
+  ],
+  "mistakes": [
+   "Die Hanteln oben weit nach vorn drücken.",
+   "Mit Hohlkreuz drücken."
+  ]
+ },
+ {
+  "id": "maschine-schulterpresse",
+  "name": "Schulterpresse an der Maschine",
+  "pattern": "push_v",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Schulterpresse",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "schulter_vorne"
+  ],
+  "secondary": [
+   "schulter_seite",
+   "trizeps_kurz"
+  ],
+  "source": "Machine_Shoulder_Military_Press",
+  "setup": "Stell den Sitz so ein, dass die Griffe auf Schulterhöhe sind. Rücken liegt am Polster.",
+  "steps": [
+   "Greif die Griffe etwas weiter als schulterbreit.",
+   "Drück sie nach oben, bis die Arme fast gestreckt sind.",
+   "Führ sie langsam zurück."
+  ],
+  "cues": [
+   "Unten bis auf Schulterhöhe gehen.",
+   "Die Schultern nicht hochziehen."
+  ],
+  "mistakes": [
+   "Nur halbe Wiederholungen oben machen."
+  ]
+ },
+ {
+  "id": "band-schulterdruecken",
+  "name": "Schulterdrücken mit Widerstandsband",
+  "pattern": "push_v",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Widerstandsband",
+  "bodyweight": false,
+  "step": 0,
+  "primary": [
+   "schulter_vorne"
+  ],
+  "secondary": [
+   "schulter_seite",
+   "trizeps_kurz"
+  ],
+  "source": "Shoulder_Press_-_With_Bands",
+  "setup": "Stell dich mit beiden Füßen auf die Mitte des Bandes und halte die Enden auf Schulterhöhe.",
+  "steps": [
+   "Spann den Rumpf an.",
+   "Drück die Hände nach oben, bis die Arme fast gestreckt sind.",
+   "Lass sie langsam zurück auf Schulterhöhe."
+  ],
+  "cues": [
+   "Breiter stehen macht es schwerer.",
+   "Handgelenke gerade halten."
+  ],
+  "mistakes": [
+   "Das Band oben zurückschnellen lassen."
+  ]
+ },
+ {
+  "id": "kh-frontheben",
+  "name": "Frontheben mit Kurzhanteln",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "schulter_vorne"
+  ],
+  "secondary": [],
+  "source": "Front_Dumbbell_Raise",
+  "setup": "Stell dich aufrecht hin und halte die Kurzhanteln vor den Oberschenkeln, Handflächen zum Körper.",
+  "steps": [
+   "Heb einen oder beide Arme gestreckt nach vorn bis auf Schulterhöhe.",
+   "Halte kurz an.",
+   "Senk die Hantel langsam ab."
+  ],
+  "cues": [
+   "Leicht gebeugte Ellbogen.",
+   "Meist reicht Drücken für die vordere Schulter, das hier ist eine Ergänzung."
+  ],
+  "mistakes": [
+   "Mit dem Oberkörper Schwung holen."
+  ]
+ },
+ {
+  "id": "kh-seitheben",
+  "name": "Seitheben mit Kurzhanteln",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 1,
+  "primary": [
+   "schulter_seite"
+  ],
+  "secondary": [],
+  "source": "Side_Lateral_Raise",
+  "setup": "Stell dich aufrecht hin und halte die Kurzhanteln seitlich neben dem Körper.",
+  "steps": [
+   "Heb die Arme leicht gebeugt seitlich an, bis sie etwa waagerecht sind.",
+   "Führ die Bewegung mit den Ellbogen, nicht mit den Händen.",
+   "Senk die Hanteln langsam ab."
+  ],
+  "cues": [
+   "Leichtes Gewicht, saubere Wiederholungen.",
+   "Oben zeigen die kleinen Finger nicht höher als die Daumen."
+  ],
+  "mistakes": [
+   "Die Schultern zu den Ohren ziehen.",
+   "Mit Schwung aus dem Rücken arbeiten."
+  ]
+ },
+ {
+  "id": "band-seitheben",
+  "name": "Seitheben mit Widerstandsband",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Widerstandsband",
+  "bodyweight": false,
+  "step": 0,
+  "primary": [
+   "schulter_seite"
+  ],
+  "secondary": [],
+  "source": "Lateral_Raise_-_With_Bands",
+  "setup": "Stell dich auf das Band und halte die Enden seitlich neben dem Körper.",
+  "steps": [
+   "Heb die Arme seitlich bis auf Schulterhöhe.",
+   "Halte kurz an.",
+   "Lass sie langsam zurück."
+  ],
+  "cues": [
+   "Ellbogen leicht gebeugt.",
+   "Das Band ist oben am stärksten gespannt, dort langsam bleiben."
+  ],
+  "mistakes": [
+   "Die Schultern hochziehen."
+  ]
+ },
+ {
+  "id": "kabel-seitheben",
+  "name": "Seitheben am Kabel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "schulter_seite"
+  ],
+  "secondary": [],
+  "source": "Standing_Low-Pulley_Deltoid_Raise",
+  "setup": "Stell die Rolle ganz unten ein und stell dich seitlich daneben. Greif den Griff mit der äußeren Hand vor dem Körper.",
+  "steps": [
+   "Heb den Arm leicht gebeugt seitlich nach oben bis auf Schulterhöhe.",
+   "Halte kurz an.",
+   "Führ ihn langsam zurück vor den Körper."
+  ],
+  "cues": [
+   "Das Kabel hält die Spannung auch unten, das macht die Übung wertvoll.",
+   "Oberkörper ruhig halten."
+  ],
+  "mistakes": [
+   "Zu schwer wählen und den Oberkörper wegkippen."
+  ]
+ },
+ {
+  "id": "lh-aufrechtes-rudern",
+  "name": "Aufrechtes Rudern mit Langhantel",
+  "pattern": "pull_v",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Langhantel",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "schulter_seite",
+   "trapez_oben"
+  ],
+  "secondary": [
+   "bizeps"
+  ],
+  "source": "Upright_Barbell_Row",
+  "setup": "Stell dich aufrecht hin und halte die Stange mit schulterbreitem Griff vor den Oberschenkeln.",
+  "steps": [
+   "Zieh die Stange nah am Körper nach oben.",
+   "Die Ellbogen gehen nach außen und oben, bis sie auf Schulterhöhe sind.",
+   "Senk die Stange langsam ab."
+  ],
+  "cues": [
+   "Nicht höher als bis zur Brust ziehen.",
+   "Schulterbreiter Griff ist schonender als ein enger."
+  ],
+  "mistakes": [
+   "Die Stange bis zum Kinn reißen."
+  ]
+ },
+ {
+  "id": "kh-reverse-fly",
+  "name": "Reverse Fly mit Kurzhanteln",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 1,
+  "primary": [
+   "schulter_hinten"
+  ],
+  "secondary": [
+   "trapez_mitte"
+  ],
+  "source": "Reverse_Flyes",
+  "setup": "Beug dich mit geradem Rücken weit nach vorn, die Knie leicht gebeugt. Die Hanteln hängen unter der Brust.",
+  "steps": [
+   "Heb die Arme leicht gebeugt seitlich nach außen.",
+   "Geh so weit, bis die Arme etwa in einer Linie mit dem Oberkörper sind.",
+   "Senk sie langsam ab."
+  ],
+  "cues": [
+   "Die Bewegung kommt aus der Schulter, nicht aus dem Zusammenziehen der Schulterblätter.",
+   "Kopf in Verlängerung des Rückens."
+  ],
+  "mistakes": [
+   "Den Oberkörper beim Heben aufrichten."
+  ]
+ },
+ {
+  "id": "band-pull-apart",
+  "name": "Band Pull Apart",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Widerstandsband",
+  "bodyweight": false,
+  "step": 0,
+  "primary": [
+   "schulter_hinten"
+  ],
+  "secondary": [
+   "trapez_mitte",
+   "rotatoren"
+  ],
+  "source": "Band_Pull_Apart",
+  "setup": "Halte das Band mit schulterbreitem Griff und gestreckten Armen vor der Brust.",
+  "steps": [
+   "Zieh das Band auseinander, bis es die Brust berührt.",
+   "Die Arme bleiben fast gestreckt.",
+   "Lass es langsam zurück."
+  ],
+  "cues": [
+   "Gut auch zum Aufwärmen vor Drückübungen.",
+   "Schultern unten lassen."
+  ],
+  "mistakes": [
+   "Die Ellbogen stark beugen und daraus ein Rudern machen."
+  ]
+ },
+ {
+  "id": "kabel-reverse-fly",
+  "name": "Reverse Fly am Kabel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "schulter_hinten"
+  ],
+  "secondary": [
+   "trapez_mitte"
+  ],
+  "source": "Cable_Rear_Delt_Fly",
+  "setup": "Stell beide Rollen auf Schulterhöhe. Greif über Kreuz: die linke Hand den rechten Zug und umgekehrt.",
+  "steps": [
+   "Die Arme sind vor dem Körper gekreuzt und leicht gebeugt.",
+   "Zieh sie in einem Bogen nach außen, bis sie in einer Linie mit den Schultern sind.",
+   "Führ sie langsam zurück."
+  ],
+  "cues": [
+   "Leichtes Gewicht reicht.",
+   "Die Bewegung kommt aus der Schulter."
+  ],
+  "mistakes": [
+   "Mit Schwung aus dem Oberkörper ziehen."
+  ]
+ },
+ {
+  "id": "maschine-reverse-fly",
+  "name": "Reverse Butterfly an der Maschine",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Butterfly-Maschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "schulter_hinten"
+  ],
+  "secondary": [
+   "trapez_mitte"
+  ],
+  "source": "Reverse_Machine_Flyes",
+  "setup": "Setz dich mit der Brust zum Polster. Stell die Griffe so ein, dass die Arme vorne gestreckt sind.",
+  "steps": [
+   "Greif die Griffe auf Schulterhöhe.",
+   "Führ die Arme leicht gebeugt nach hinten außen.",
+   "Lass sie langsam nach vorn zurück."
+  ],
+  "cues": [
+   "Brust bleibt am Polster.",
+   "Hinten kurz halten."
+  ],
+  "mistakes": [
+   "Die Schulterblätter mit aller Kraft zusammenpressen statt die Schulter arbeiten zu lassen."
+  ]
+ },
+ {
+  "id": "face-pull",
+  "name": "Face Pull",
+  "pattern": "pull_h",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Kabelzug mit Seil",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "schulter_hinten",
+   "trapez_mitte"
+  ],
+  "secondary": [
+   "rotatoren",
+   "trapez_unten"
+  ],
+  "source": "Face_Pull",
+  "setup": "Stell die Rolle etwa auf Kopfhöhe und häng das Seil ein. Greif beide Enden und geh einen Schritt zurück.",
+  "steps": [
+   "Zieh das Seil Richtung Gesicht.",
+   "Zieh die Enden dabei auseinander, so dass die Hände neben den Ohren landen.",
+   "Führ die Arme langsam wieder nach vorn."
+  ],
+  "cues": [
+   "Die Ellbogen sind auf Schulterhöhe oder etwas höher.",
+   "Am Ende zeigen die Fäuste nach oben."
+  ],
+  "mistakes": [
+   "Mit zu viel Gewicht nach hinten lehnen."
+  ]
+ },
+ {
+  "id": "band-aussenrotation",
+  "name": "Außenrotation mit Widerstandsband",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Widerstandsband",
+  "bodyweight": false,
+  "step": 0,
+  "primary": [
+   "rotatoren"
+  ],
+  "secondary": [],
+  "source": "External_Rotation_with_Band",
+  "setup": "Befestige das Band auf Ellbogenhöhe und stell dich seitlich dazu. Der äußere Arm ist 90 Grad gebeugt, der Ellbogen liegt am Körper.",
+  "steps": [
+   "Dreh den Unterarm vom Körper weg nach außen.",
+   "Der Ellbogen bleibt am Körper.",
+   "Lass ihn langsam zurück."
+  ],
+  "cues": [
+   "Leichter Widerstand reicht.",
+   "Langsam und kontrolliert."
+  ],
+  "mistakes": [
+   "Den Ellbogen vom Körper abheben."
+  ]
+ },
+ {
+  "id": "kh-aussenrotation",
+  "name": "Außenrotation mit Kurzhantel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhantel",
+  "bodyweight": false,
+  "step": 1,
+  "primary": [
+   "rotatoren"
+  ],
+  "secondary": [],
+  "source": "External_Rotation",
+  "setup": "Leg dich auf die Seite. Der obere Arm ist 90 Grad gebeugt, der Ellbogen liegt an der Hüfte, die Hantel vor dem Bauch.",
+  "steps": [
+   "Dreh den Unterarm nach oben, der Ellbogen bleibt liegen.",
+   "Halte oben kurz an.",
+   "Senk die Hantel langsam."
+  ],
+  "cues": [
+   "Sehr leichtes Gewicht nehmen.",
+   "Ein Handtuch zwischen Ellbogen und Körper hilft."
+  ],
+  "mistakes": [
+   "Mit dem Oberkörper nach hinten rollen."
+  ]
+ },
+ {
+  "id": "kabel-aussenrotation",
+  "name": "Außenrotation am Kabel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 1,
+  "primary": [
+   "rotatoren"
+  ],
+  "secondary": [],
+  "source": "External_Rotation_with_Cable",
+  "setup": "Stell die Rolle auf Ellbogenhöhe und stell dich seitlich dazu. Greif mit dem äußeren Arm, Ellbogen 90 Grad am Körper.",
+  "steps": [
+   "Dreh den Unterarm nach außen.",
+   "Halte kurz an.",
+   "Führ ihn langsam zurück."
+  ],
+  "cues": [
+   "Das kleinste Gewicht am Turm reicht oft.",
+   "Schulter bleibt unten."
+  ],
+  "mistakes": [
+   "Ruckartig ziehen."
+  ]
+ },
+ {
+  "id": "klimmzug",
+  "name": "Klimmzug",
+  "pattern": "pull_v",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Klimmzugstange",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "lat"
+  ],
+  "secondary": [
+   "bizeps",
+   "trapez_mitte",
+   "unterarm"
+  ],
+  "source": "Pullups",
+  "setup": "Häng dich mit gestreckten Armen an die Stange, Griff etwas weiter als schulterbreit, Handflächen nach vorn.",
+  "steps": [
+   "Zieh die Schulterblätter nach unten.",
+   "Zieh dich hoch, bis das Kinn über der Stange ist.",
+   "Lass dich kontrolliert ab, bis die Arme wieder gestreckt sind."
+  ],
+  "cues": [
+   "Denk daran, die Ellbogen zur Hüfte zu ziehen.",
+   "Wenn noch keiner geht: Klimmzug mit Band."
+  ],
+  "mistakes": [
+   "Mit den Beinen Schwung holen.",
+   "Nur halb nach unten gehen."
+  ]
+ },
+ {
+  "id": "chin-up",
+  "name": "Chin-up mit Untergriff",
+  "pattern": "pull_v",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Klimmzugstange",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "lat",
+   "bizeps"
+  ],
+  "secondary": [
+   "trapez_mitte",
+   "brachialis"
+  ],
+  "source": "Chin-Up",
+  "setup": "Häng dich mit schulterbreitem Untergriff an die Stange, die Handflächen zeigen zu dir.",
+  "steps": [
+   "Zieh die Schulterblätter nach unten.",
+   "Zieh dich hoch, bis das Kinn über der Stange ist.",
+   "Lass dich langsam wieder ab."
+  ],
+  "cues": [
+   "Der Untergriff nimmt den Bizeps stärker mit.",
+   "Oben kurz halten."
+  ],
+  "mistakes": [
+   "Den Kopf über die Stange recken, statt den Körper zu heben."
+  ]
+ },
+ {
+  "id": "klimmzug-band",
+  "name": "Klimmzug mit Band",
+  "pattern": "pull_v",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Klimmzugstange und Widerstandsband",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "lat"
+  ],
+  "secondary": [
+   "bizeps",
+   "trapez_mitte"
+  ],
+  "source": "Band_Assisted_Pull-Up",
+  "setup": "Häng ein starkes Band um die Stange und stell einen Fuß oder ein Knie in die Schlaufe.",
+  "steps": [
+   "Greif die Stange etwas weiter als schulterbreit.",
+   "Zieh dich hoch, bis das Kinn über der Stange ist.",
+   "Lass dich langsam ab."
+  ],
+  "cues": [
+   "Ein dünneres Band heißt weniger Hilfe.",
+   "Ziel sind freie Klimmzüge."
+  ],
+  "mistakes": [
+   "Unten aus dem Band nach oben schnellen."
+  ]
+ },
+ {
+  "id": "latzug",
+  "name": "Latzug breit",
+  "pattern": "pull_v",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Latzugmaschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "lat"
+  ],
+  "secondary": [
+   "bizeps",
+   "trapez_unten",
+   "schulter_hinten"
+  ],
+  "source": "Wide-Grip_Lat_Pulldown",
+  "setup": "Setz dich an die Maschine, klemm die Oberschenkel unter das Polster und greif die Stange weit.",
+  "steps": [
+   "Lehn dich leicht zurück.",
+   "Zieh die Stange zur oberen Brust, die Ellbogen gehen nach unten.",
+   "Führ sie langsam zurück, bis die Arme gestreckt sind."
+  ],
+  "cues": [
+   "Oben die Schultern ruhig mitgehen lassen, das dehnt den Lat.",
+   "Brust zur Stange."
+  ],
+  "mistakes": [
+   "Mit dem ganzen Oberkörper nach hinten reißen.",
+   "Die Stange in den Nacken ziehen."
+  ]
+ },
+ {
+  "id": "latzug-eng",
+  "name": "Latzug eng",
+  "pattern": "pull_v",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Latzugmaschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "lat"
+  ],
+  "secondary": [
+   "bizeps",
+   "trapez_mitte"
+  ],
+  "source": "Close-Grip_Front_Lat_Pulldown",
+  "setup": "Setz dich an die Maschine und greif die Stange oder den engen Griff etwa schulterbreit.",
+  "steps": [
+   "Lehn dich leicht zurück.",
+   "Zieh den Griff zur Brust und die Ellbogen nah am Körper nach unten.",
+   "Lass ihn langsam zurück nach oben."
+  ],
+  "cues": [
+   "Längerer Weg als beim breiten Griff.",
+   "Schulterblätter nach unten ziehen."
+  ],
+  "mistakes": [
+   "Zu weit zurücklehnen und daraus ein Rudern machen."
+  ]
+ },
+ {
+  "id": "kabel-ueberzug",
+  "name": "Überzug am Kabel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "lat"
+  ],
+  "secondary": [
+   "trizeps_lang",
+   "serratus"
+  ],
+  "source": "Straight-Arm_Pulldown",
+  "setup": "Stell die Rolle oben ein, greif die Stange schulterbreit und geh zwei Schritte zurück. Beug dich leicht vor.",
+  "steps": [
+   "Die Arme sind fast gestreckt und zeigen schräg nach oben.",
+   "Drück die Stange in einem Bogen bis zu den Oberschenkeln.",
+   "Führ sie langsam zurück nach oben."
+  ],
+  "cues": [
+   "Der Ellbogenwinkel bleibt gleich.",
+   "Gut, um den Lat ohne Bizeps zu treffen."
+  ],
+  "mistakes": [
+   "Die Arme beugen und mit dem Trizeps drücken."
+  ]
+ },
+ {
+  "id": "lh-rudern",
+  "name": "Rudern mit Langhantel",
+  "pattern": "pull_h",
+  "role": "heavy",
+  "level": 3,
+  "equipment": "Langhantel",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "trapez_mitte",
+   "lat"
+  ],
+  "secondary": [
+   "bizeps",
+   "schulter_hinten",
+   "rueckenstrecker"
+  ],
+  "source": "Bent_Over_Barbell_Row",
+  "setup": "Halte die Stange schulterbreit, beug die Knie leicht und kipp den Oberkörper mit geradem Rücken nach vorn, fast waagerecht.",
+  "steps": [
+   "Die Stange hängt unter den Schultern.",
+   "Zieh sie zum Bauchnabel, die Ellbogen gehen eng nach hinten.",
+   "Senk sie kontrolliert, bis die Arme gestreckt sind."
+  ],
+  "cues": [
+   "Der Rücken bleibt gerade, der Oberkörper ruhig.",
+   "Oben die Schulterblätter zusammenziehen."
+  ],
+  "mistakes": [
+   "Mit dem Oberkörper Schwung holen.",
+   "Einen runden Rücken machen."
+  ]
+ },
+ {
+  "id": "kh-rudern",
+  "name": "Rudern mit Kurzhanteln",
+  "pattern": "pull_h",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "trapez_mitte",
+   "lat"
+  ],
+  "secondary": [
+   "bizeps",
+   "schulter_hinten"
+  ],
+  "source": "Bent_Over_Two-Dumbbell_Row",
+  "setup": "Halte die Kurzhanteln, beug die Knie leicht und kipp den Oberkörper mit geradem Rücken nach vorn.",
+  "steps": [
+   "Die Hanteln hängen unter den Schultern.",
+   "Zieh sie zur Hüfte, die Ellbogen gehen nah am Körper nach hinten.",
+   "Senk sie langsam ab."
+  ],
+  "cues": [
+   "Schulterblätter oben zusammenziehen.",
+   "Blick schräg nach unten."
+  ],
+  "mistakes": [
+   "Den Oberkörper aufrichten, um mehr Gewicht zu bewegen."
+  ]
+ },
+ {
+  "id": "kabelrudern",
+  "name": "Rudern am Kabel sitzend",
+  "pattern": "pull_h",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "trapez_mitte",
+   "lat"
+  ],
+  "secondary": [
+   "bizeps",
+   "schulter_hinten"
+  ],
+  "source": "Seated_Cable_Rows",
+  "setup": "Setz dich an den Zug, Füße auf die Platte, Knie leicht gebeugt. Greif den Griff mit gestreckten Armen.",
+  "steps": [
+   "Sitz aufrecht.",
+   "Zieh den Griff zum Bauch, die Ellbogen nah am Körper.",
+   "Führ ihn langsam zurück, bis die Arme gestreckt sind und die Schulterblätter nach vorn gehen."
+  ],
+  "cues": [
+   "Vorne ruhig in die Dehnung gehen.",
+   "Oberkörper bewegt sich kaum."
+  ],
+  "mistakes": [
+   "Mit dem Oberkörper weit nach hinten schaukeln."
+  ]
+ },
+ {
+  "id": "tbar-rudern-brustgestuetzt",
+  "name": "T-Bar-Rudern mit Brustauflage",
+  "pattern": "pull_h",
+  "role": "compound",
+  "level": 3,
+  "equipment": "T-Bar-Maschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "trapez_mitte",
+   "lat"
+  ],
+  "secondary": [
+   "bizeps",
+   "schulter_hinten"
+  ],
+  "source": "Lying_T-Bar_Row",
+  "setup": "Leg dich mit der Brust auf das Polster und greif die Griffe mit gestreckten Armen.",
+  "steps": [
+   "Zieh die Griffe nach oben, die Ellbogen gehen nach hinten.",
+   "Zieh oben die Schulterblätter zusammen.",
+   "Senk das Gewicht langsam ab."
+  ],
+  "cues": [
+   "Die Brustauflage nimmt den unteren Rücken raus.",
+   "Brust bleibt am Polster."
+  ],
+  "mistakes": [
+   "Die Brust vom Polster heben, um zu schummeln."
+  ]
+ },
+ {
+  "id": "kh-rudern-schraegbank",
+  "name": "Rudern auf der Schrägbank",
+  "pattern": "pull_h",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Kurzhanteln und Schrägbank",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "trapez_mitte",
+   "lat"
+  ],
+  "secondary": [
+   "bizeps",
+   "schulter_hinten"
+  ],
+  "source": "Dumbbell_Incline_Row",
+  "setup": "Stell die Bank auf etwa 30 Grad und leg dich bäuchlings darauf. Die Hanteln hängen unter den Schultern.",
+  "steps": [
+   "Zieh die Hanteln zur Hüfte.",
+   "Zieh oben die Schulterblätter zusammen.",
+   "Senk sie langsam ab."
+  ],
+  "cues": [
+   "Der untere Rücken wird geschont.",
+   "Kinn leicht eingezogen."
+  ],
+  "mistakes": [
+   "Den Kopf in den Nacken legen."
+  ]
+ },
+ {
+  "id": "rudern-umgekehrt",
+  "name": "Rudern umgekehrt",
+  "pattern": "pull_h",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Stange im Rack",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "trapez_mitte",
+   "lat"
+  ],
+  "secondary": [
+   "bizeps"
+  ],
+  "source": "Inverted_Row",
+  "setup": "Leg eine Stange auf Hüfthöhe in das Rack. Häng dich darunter, Griff etwas weiter als schulterbreit, Fersen am Boden.",
+  "steps": [
+   "Spann den Körper an, so dass er eine Linie bildet.",
+   "Zieh die Brust zur Stange.",
+   "Lass dich langsam ab, bis die Arme gestreckt sind."
+  ],
+  "cues": [
+   "Je flacher der Körper, desto schwerer.",
+   "Oben die Schulterblätter zusammenziehen."
+  ],
+  "mistakes": [
+   "Die Hüfte durchhängen lassen."
+  ]
+ },
+ {
+  "id": "schulterblatt-klimmzug",
+  "name": "Schulterblatt-Klimmzug",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Klimmzugstange",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "trapez_unten"
+  ],
+  "secondary": [
+   "lat"
+  ],
+  "source": "Scapular_Pull-Up",
+  "setup": "Häng dich mit gestreckten Armen an die Stange, Griff schulterbreit.",
+  "steps": [
+   "Zieh nur die Schulterblätter nach unten, die Arme bleiben gestreckt.",
+   "Der Körper hebt sich dabei ein paar Zentimeter.",
+   "Lass dich langsam zurück in den Hang."
+  ],
+  "cues": [
+   "Kleine Bewegung, volle Spannung.",
+   "Gute Vorbereitung für Klimmzüge."
+  ],
+  "mistakes": [
+   "Die Arme beugen."
+  ]
+ },
+ {
+  "id": "schraegbank-y-heben",
+  "name": "Y-Heben auf der Schrägbank",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Schrägbank und leichte Stange",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "trapez_unten"
+  ],
+  "secondary": [
+   "schulter_seite"
+  ],
+  "source": "Straight_Raises_on_Incline_Bench",
+  "setup": "Leg dich bäuchlings auf eine schräge Bank. Greif eine leichte Stange oder zwei leichte Kurzhanteln, die Arme hängen gestreckt.",
+  "steps": [
+   "Heb die gestreckten Arme schräg nach vorn oben, so dass sie mit dem Körper ein Y bilden.",
+   "Zieh die Schulterblätter dabei nach unten.",
+   "Senk die Arme langsam."
+  ],
+  "cues": [
+   "Sehr leichtes Gewicht.",
+   "Daumen zeigen nach oben."
+  ],
+  "mistakes": [
+   "Die Schultern zu den Ohren ziehen."
+  ]
+ },
+ {
+  "id": "kh-shrugs",
+  "name": "Schulterheben mit Kurzhanteln",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "trapez_oben"
+  ],
+  "secondary": [],
+  "source": "Dumbbell_Shrug",
+  "setup": "Stell dich aufrecht hin, die Kurzhanteln hängen seitlich neben dem Körper.",
+  "steps": [
+   "Zieh die Schultern gerade nach oben zu den Ohren.",
+   "Halte oben eine Sekunde.",
+   "Senk sie langsam ab."
+  ],
+  "cues": [
+   "Arme bleiben gestreckt.",
+   "Nicht kreisen, nur hoch und runter."
+  ],
+  "mistakes": [
+   "Mit den Armen beugen."
+  ]
+ },
+ {
+  "id": "lh-shrugs",
+  "name": "Schulterheben mit Langhantel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Langhantel",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "trapez_oben"
+  ],
+  "secondary": [],
+  "source": "Barbell_Shrug",
+  "setup": "Halte die Langhantel mit schulterbreitem Griff vor den Oberschenkeln.",
+  "steps": [
+   "Zieh die Schultern gerade nach oben.",
+   "Halte oben kurz an.",
+   "Senk die Stange langsam."
+  ],
+  "cues": [
+   "Schwer möglich, aber mit voller Bewegung.",
+   "Kopf gerade halten."
+  ],
+  "mistakes": [
+   "Nur ein paar Zentimeter wippen."
+  ]
+ },
+ {
+  "id": "kabel-shrugs",
+  "name": "Schulterheben am Kabel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "trapez_oben"
+  ],
+  "secondary": [],
+  "source": "Cable_Shrugs",
+  "setup": "Stell die Rolle unten ein, greif die Stange schulterbreit und stell dich aufrecht davor.",
+  "steps": [
+   "Zieh die Schultern nach oben.",
+   "Halte oben kurz an.",
+   "Lass sie langsam sinken."
+  ],
+  "cues": [
+   "Gleichmäßige Spannung über die ganze Bewegung.",
+   "Arme gestreckt."
+  ],
+  "mistakes": [
+   "Mit dem Oberkörper nach hinten lehnen."
+  ]
+ },
+ {
+  "id": "band-aufrechtes-rudern",
+  "name": "Aufrechtes Rudern mit Widerstandsband",
+  "pattern": "pull_v",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Widerstandsband",
+  "bodyweight": false,
+  "step": 0,
+  "primary": [
+   "trapez_oben",
+   "schulter_seite"
+  ],
+  "secondary": [
+   "bizeps"
+  ],
+  "source": "Upright_Row_-_With_Bands",
+  "setup": "Stell dich mit beiden Füßen auf das Band und greif die Enden vor dem Körper.",
+  "steps": [
+   "Zieh die Hände nah am Körper nach oben bis zur Brust.",
+   "Die Ellbogen gehen nach außen und oben.",
+   "Lass sie langsam nach unten."
+  ],
+  "cues": [
+   "Nicht höher als die Brust ziehen.",
+   "Breiter stehen macht es schwerer."
+  ],
+  "mistakes": [
+   "Die Hände bis zum Kinn reißen."
+  ]
+ },
+ {
+  "id": "kreuzheben",
+  "name": "Kreuzheben",
+  "pattern": "hinge",
+  "role": "heavy",
+  "level": 3,
+  "equipment": "Langhantel",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "rueckenstrecker",
+   "gluteus_max",
+   "beinbizeps"
+  ],
+  "secondary": [
+   "trapez_oben",
+   "unterarm",
+   "quadrizeps",
+   "lat"
+  ],
+  "source": "Barbell_Deadlift",
+  "setup": "Stell dich hüftbreit vor die Stange, so dass sie über der Fußmitte liegt. Greif sie knapp außerhalb der Beine.",
+  "steps": [
+   "Schieb die Hüfte nach hinten, die Schienbeine berühren die Stange, der Rücken ist gerade.",
+   "Drück dich vom Boden weg und streck Hüfte und Knie gleichzeitig.",
+   "Die Stange bleibt nah am Körper, oben stehst du aufrecht.",
+   "Senk sie auf demselben Weg zurück auf den Boden."
+  ],
+  "cues": [
+   "Vor dem Heben den Lat anspannen, als würdest du die Stange zur Seite biegen.",
+   "Brust bleibt oben."
+  ],
+  "mistakes": [
+   "Mit rundem Rücken ziehen.",
+   "Oben weit nach hinten lehnen."
+  ]
+ },
+ {
+  "id": "rueckenstrecken",
+  "name": "Rückenstrecken an der Bank",
+  "pattern": "hinge",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Hyperextensionbank",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "rueckenstrecker"
+  ],
+  "secondary": [
+   "gluteus_max",
+   "beinbizeps"
+  ],
+  "source": "Hyperextensions_Back_Extensions",
+  "setup": "Stell dich in die Bank, die Hüfte liegt knapp über dem Polster, die Füße sind fixiert. Verschränk die Arme vor der Brust.",
+  "steps": [
+   "Beug dich mit geradem Rücken nach vorn unten.",
+   "Richte dich wieder auf, bis der Körper eine Linie bildet.",
+   "Senk dich langsam wieder ab."
+  ],
+  "cues": [
+   "Nicht über die gerade Linie hinaus ins Hohlkreuz.",
+   "Mehr Last mit einer Scheibe vor der Brust."
+  ],
+  "mistakes": [
+   "Mit Schwung nach oben reißen."
+  ]
+ },
+ {
+  "id": "band-good-morning",
+  "name": "Good Morning mit Widerstandsband",
+  "pattern": "hinge",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Widerstandsband",
+  "bodyweight": false,
+  "step": 0,
+  "primary": [
+   "beinbizeps",
+   "rueckenstrecker"
+  ],
+  "secondary": [
+   "gluteus_max"
+  ],
+  "source": "Band_Good_Morning",
+  "setup": "Stell dich auf das Band und leg die Schlaufe hinter den Nacken über die Schultern. Füße hüftbreit, Knie leicht gebeugt.",
+  "steps": [
+   "Schieb die Hüfte nach hinten und kipp den Oberkörper mit geradem Rücken nach vorn.",
+   "Geh so weit, bis du eine Dehnung hinten im Oberschenkel spürst.",
+   "Richte dich aus der Hüfte wieder auf."
+  ],
+  "cues": [
+   "Der Rücken bleibt die ganze Zeit gerade.",
+   "Bewegung kommt aus der Hüfte."
+  ],
+  "mistakes": [
+   "Den Rücken rund machen, um tiefer zu kommen."
+  ]
+ },
+ {
+  "id": "kh-bizepscurl",
+  "name": "Bizepscurl mit Kurzhanteln",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "bizeps"
+  ],
+  "secondary": [
+   "brachialis",
+   "unterarm"
+  ],
+  "source": "Dumbbell_Bicep_Curl",
+  "setup": "Stell dich aufrecht hin, die Kurzhanteln hängen neben dem Körper, Handflächen nach vorn.",
+  "steps": [
+   "Beug die Arme und heb die Hanteln zur Schulter.",
+   "Die Ellbogen bleiben seitlich am Körper.",
+   "Senk die Hanteln langsam, bis die Arme gestreckt sind."
+  ],
+  "cues": [
+   "Unten ganz strecken.",
+   "Oben kurz anspannen."
+  ],
+  "mistakes": [
+   "Mit dem Oberkörper Schwung holen.",
+   "Die Ellbogen nach vorn wandern lassen."
+  ]
+ },
+ {
+  "id": "lh-curl",
+  "name": "Bizepscurl mit Langhantel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Langhantel",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "bizeps"
+  ],
+  "secondary": [
+   "brachialis",
+   "unterarm"
+  ],
+  "source": "Barbell_Curl",
+  "setup": "Halte die Stange schulterbreit im Untergriff vor den Oberschenkeln.",
+  "steps": [
+   "Beug die Arme und heb die Stange zur Brust.",
+   "Die Ellbogen bleiben am Körper.",
+   "Senk sie langsam ab."
+  ],
+  "cues": [
+   "Handgelenke gerade halten.",
+   "Aufrecht stehen bleiben."
+  ],
+  "mistakes": [
+   "Zurücklehnen, um die Stange hochzubekommen."
+  ]
+ },
+ {
+  "id": "sz-curl",
+  "name": "Bizepscurl mit SZ-Stange",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "SZ-Stange",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "bizeps"
+  ],
+  "secondary": [
+   "brachialis"
+  ],
+  "source": "EZ-Bar_Curl",
+  "setup": "Greif die SZ-Stange an den inneren Schrägen im Untergriff, die Arme hängen gestreckt.",
+  "steps": [
+   "Beug die Arme und heb die Stange zur Brust.",
+   "Halte oben kurz.",
+   "Senk sie kontrolliert ab."
+  ],
+  "cues": [
+   "Der gewinkelte Griff schont die Handgelenke.",
+   "Ellbogen ruhig halten."
+  ],
+  "mistakes": [
+   "Mit Schwung aus der Hüfte arbeiten."
+  ]
+ },
+ {
+  "id": "kabel-curl",
+  "name": "Bizepscurl am Kabel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "bizeps"
+  ],
+  "secondary": [],
+  "source": "Standing_Biceps_Cable_Curl",
+  "setup": "Stell die Rolle unten ein, greif die Stange schulterbreit im Untergriff und stell dich aufrecht davor.",
+  "steps": [
+   "Beug die Arme und zieh die Stange zur Brust.",
+   "Halte oben kurz an.",
+   "Lass sie langsam nach unten."
+  ],
+  "cues": [
+   "Das Kabel hält auch unten Spannung.",
+   "Ellbogen am Körper."
+  ],
+  "mistakes": [
+   "Die Schultern nach vorn ziehen."
+  ]
+ },
+ {
+  "id": "kh-schraegbank-curl",
+  "name": "Curl auf der Schrägbank",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kurzhanteln und Schrägbank",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "bizeps"
+  ],
+  "secondary": [],
+  "source": "Incline_Dumbbell_Curl",
+  "setup": "Stell die Bank auf etwa 45 Grad und setz dich zurückgelehnt hin. Die Arme hängen gestreckt nach unten.",
+  "steps": [
+   "Beug die Arme und heb die Hanteln zur Schulter.",
+   "Die Oberarme bleiben senkrecht.",
+   "Senk sie langsam bis ganz unten."
+  ],
+  "cues": [
+   "Der Bizeps wird unten stark gedehnt, das ist gewollt.",
+   "Leichter als im Stehen wählen."
+  ],
+  "mistakes": [
+   "Die Ellbogen nach vorn ziehen."
+  ]
+ },
+ {
+  "id": "konzentrations-curl",
+  "name": "Konzentrationscurl",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhantel und Stuhl",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "bizeps"
+  ],
+  "secondary": [],
+  "source": "Concentration_Curls",
+  "setup": "Setz dich auf einen Stuhl oder eine Bank, die Beine gespreizt. Stütz den Oberarm innen am Oberschenkel ab.",
+  "steps": [
+   "Beug den Arm und heb die Hantel zur Schulter.",
+   "Halte oben kurz an.",
+   "Senk sie langsam, bis der Arm gestreckt ist."
+  ],
+  "cues": [
+   "Der Oberarm bleibt am Bein.",
+   "Ruhige, langsame Wiederholungen."
+  ],
+  "mistakes": [
+   "Mit dem Oberkörper mithelfen."
+  ]
+ },
+ {
+  "id": "scott-curl",
+  "name": "Scottcurl",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "SZ-Stange und Scottbank",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "bizeps"
+  ],
+  "secondary": [
+   "brachialis"
+  ],
+  "source": "Preacher_Curl",
+  "setup": "Setz dich an die Scottbank, die Oberarme liegen flach auf dem Polster. Greif die Stange im Untergriff.",
+  "steps": [
+   "Beug die Arme und heb die Stange.",
+   "Halte oben kurz.",
+   "Senk sie langsam, bis die Arme fast gestreckt sind."
+  ],
+  "cues": [
+   "Unten vorsichtig, nicht durchfallen lassen.",
+   "Oberarme bleiben auf dem Polster."
+  ],
+  "mistakes": [
+   "Unten mit Schwung aus der Streckung starten."
+  ]
+ },
+ {
+  "id": "hammercurl",
+  "name": "Hammercurl",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "brachialis"
+  ],
+  "secondary": [
+   "unterarm",
+   "bizeps"
+  ],
+  "source": "Hammer_Curls",
+  "setup": "Stell dich aufrecht hin, die Kurzhanteln hängen neben dem Körper, die Handflächen zeigen zueinander.",
+  "steps": [
+   "Beug die Arme mit diesem neutralen Griff.",
+   "Heb die Hanteln bis zur Schulter.",
+   "Senk sie langsam ab."
+  ],
+  "cues": [
+   "Daumen zeigen die ganze Zeit nach oben.",
+   "Ellbogen bleiben am Körper."
+  ],
+  "mistakes": [
+   "Die Hanteln quer vor den Körper schwingen."
+  ]
+ },
+ {
+  "id": "kabel-hammercurl",
+  "name": "Hammercurl am Kabel mit Seil",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug mit Seil",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "brachialis"
+  ],
+  "secondary": [
+   "unterarm"
+  ],
+  "source": "Cable_Hammer_Curls_-_Rope_Attachment",
+  "setup": "Häng das Seil unten ein und greif beide Enden mit den Daumen nach oben.",
+  "steps": [
+   "Beug die Arme und zieh das Seil zur Schulter.",
+   "Halte oben kurz an.",
+   "Lass es langsam nach unten."
+  ],
+  "cues": [
+   "Ellbogen ruhig am Körper.",
+   "Handgelenke gerade."
+  ],
+  "mistakes": [
+   "Mit dem Rücken nach hinten lehnen."
+  ]
+ },
+ {
+  "id": "lh-reverse-curl",
+  "name": "Reverse Curl mit Langhantel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Langhantel",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "brachialis",
+   "unterarm"
+  ],
+  "secondary": [
+   "bizeps"
+  ],
+  "source": "Reverse_Barbell_Curl",
+  "setup": "Halte die Stange schulterbreit im Obergriff, die Handrücken zeigen nach vorn.",
+  "steps": [
+   "Beug die Arme und heb die Stange zur Brust.",
+   "Die Handgelenke bleiben gerade.",
+   "Senk sie langsam ab."
+  ],
+  "cues": [
+   "Deutlich leichter als ein normaler Curl.",
+   "Gut für Unterarm und Brachialis."
+  ],
+  "mistakes": [
+   "Die Handgelenke nach unten abknicken."
+  ]
+ },
+ {
+  "id": "kh-trizeps-ueberkopf",
+  "name": "Trizepsstrecken über Kopf mit Kurzhantel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhantel",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "trizeps_lang"
+  ],
+  "secondary": [
+   "trizeps_kurz"
+  ],
+  "source": "Standing_Dumbbell_Triceps_Extension",
+  "setup": "Halte eine Kurzhantel mit beiden Händen über dem Kopf, die Arme sind gestreckt.",
+  "steps": [
+   "Senk die Hantel hinter den Kopf, indem du nur die Ellbogen beugst.",
+   "Geh tief, bis du eine Dehnung hinten am Oberarm spürst.",
+   "Streck die Arme wieder nach oben."
+  ],
+  "cues": [
+   "Die Oberarme bleiben nah am Kopf.",
+   "Über Kopf wird der lange Kopf gedehnt, das macht die Übung wertvoll."
+  ],
+  "mistakes": [
+   "Die Ellbogen weit nach außen öffnen."
+  ]
+ },
+ {
+  "id": "kabel-trizeps-ueberkopf",
+  "name": "Trizepsstrecken über Kopf am Kabel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug mit Seil",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "trizeps_lang"
+  ],
+  "secondary": [
+   "trizeps_kurz"
+  ],
+  "source": "Cable_Rope_Overhead_Triceps_Extension",
+  "setup": "Häng das Seil unten ein, dreh dem Turm den Rücken zu und halte das Seil hinter dem Kopf. Mach einen Schritt nach vorn.",
+  "steps": [
+   "Die Ellbogen zeigen nach vorn oben.",
+   "Streck die Arme nach vorn oben über den Kopf.",
+   "Lass das Seil langsam zurück hinter den Kopf."
+  ],
+  "cues": [
+   "Oberarme bleiben ruhig.",
+   "Hinten tief in die Dehnung."
+  ],
+  "mistakes": [
+   "Mit dem Oberkörper nach vorn kippen, um zu drücken."
+  ]
+ },
+ {
+  "id": "sz-skullcrusher",
+  "name": "Skullcrusher mit SZ-Stange",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "SZ-Stange und Flachbank",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "trizeps_lang"
+  ],
+  "secondary": [
+   "trizeps_kurz"
+  ],
+  "source": "EZ-Bar_Skullcrusher",
+  "setup": "Leg dich auf die Bank und halte die SZ-Stange mit gestreckten Armen über der Brust.",
+  "steps": [
+   "Neig die Oberarme leicht Richtung Kopf.",
+   "Senk die Stange, indem du nur die Ellbogen beugst, bis knapp hinter die Stirn.",
+   "Streck die Arme wieder."
+  ],
+  "cues": [
+   "Ellbogen zeigen zur Decke, nicht nach außen.",
+   "Langsam absenken."
+  ],
+  "mistakes": [
+   "Die Stange zu schnell zur Stirn fallen lassen."
+  ]
+ },
+ {
+  "id": "band-trizeps-ueberkopf",
+  "name": "Trizepsstrecken über Kopf mit Band",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Widerstandsband",
+  "bodyweight": false,
+  "step": 0,
+  "primary": [
+   "trizeps_lang"
+  ],
+  "secondary": [
+   "trizeps_kurz"
+  ],
+  "source": "Speed_Band_Overhead_Triceps",
+  "setup": "Befestige das Band unten hinter dir oder stell dich auf ein Ende. Halte das andere Ende mit beiden Händen hinter dem Kopf.",
+  "steps": [
+   "Die Ellbogen zeigen nach oben.",
+   "Streck die Arme über den Kopf.",
+   "Lass die Hände langsam zurück hinter den Kopf."
+  ],
+  "cues": [
+   "Oberarme bleiben am Kopf.",
+   "Kürzer greifen macht es schwerer."
+  ],
+  "mistakes": [
+   "Ins Hohlkreuz gehen."
+  ]
+ },
+ {
+  "id": "trizepsdruecken",
+  "name": "Trizepsdrücken am Kabel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "trizeps_kurz"
+  ],
+  "secondary": [
+   "trizeps_lang"
+  ],
+  "source": "Triceps_Pushdown",
+  "setup": "Stell die Rolle oben ein, greif die Stange schulterbreit im Obergriff und stell dich nah davor.",
+  "steps": [
+   "Die Oberarme liegen seitlich am Körper.",
+   "Drück die Stange nach unten, bis die Arme gestreckt sind.",
+   "Lass sie langsam bis auf Brusthöhe zurück."
+  ],
+  "cues": [
+   "Nur die Unterarme bewegen sich.",
+   "Unten kurz anspannen."
+  ],
+  "mistakes": [
+   "Mit dem Oberkörper über die Stange lehnen und drücken."
+  ]
+ },
+ {
+  "id": "trizepsdruecken-seil",
+  "name": "Trizepsdrücken mit Seil",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug mit Seil",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "trizeps_kurz"
+  ],
+  "secondary": [
+   "trizeps_lang"
+  ],
+  "source": "Triceps_Pushdown_-_Rope_Attachment",
+  "setup": "Häng das Seil oben ein und greif beide Enden mit den Daumen nach oben.",
+  "steps": [
+   "Drück das Seil nach unten.",
+   "Zieh unten die Enden leicht auseinander.",
+   "Lass es langsam zurück."
+  ],
+  "cues": [
+   "Ellbogen bleiben am Körper.",
+   "Schultern unten."
+  ],
+  "mistakes": [
+   "Die Ellbogen nach vorn wandern lassen."
+  ]
+ },
+ {
+  "id": "bankdips",
+  "name": "Dips an der Bank",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 1,
+  "equipment": "Körpergewicht und Stuhl",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "trizeps_kurz"
+  ],
+  "secondary": [
+   "brust",
+   "schulter_vorne"
+  ],
+  "source": "Bench_Dips",
+  "setup": "Stütz dich mit dem Rücken zu einer stabilen Bank oder einem Stuhl auf die Kante, Hände schulterbreit. Die Beine sind ausgestreckt.",
+  "steps": [
+   "Senk dich ab, indem du die Ellbogen beugst, bis die Oberarme etwa waagerecht sind.",
+   "Die Ellbogen zeigen nach hinten.",
+   "Drück dich wieder nach oben."
+  ],
+  "cues": [
+   "Angewinkelte Beine machen es leichter.",
+   "Nah an der Kante bleiben."
+  ],
+  "mistakes": [
+   "Zu tief gehen, bis die Schultern nach vorn rollen."
+  ]
+ },
+ {
+  "id": "dips-trizeps",
+  "name": "Dips für den Trizeps",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Barren",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "trizeps_kurz"
+  ],
+  "secondary": [
+   "brust",
+   "schulter_vorne"
+  ],
+  "source": "Dips_-_Triceps_Version",
+  "setup": "Stütz dich mit gestreckten Armen auf den Barren, der Oberkörper bleibt aufrecht.",
+  "steps": [
+   "Beug die Ellbogen und senk dich ab, bis die Oberarme waagerecht sind.",
+   "Die Ellbogen bleiben nah am Körper.",
+   "Drück dich wieder hoch."
+  ],
+  "cues": [
+   "Aufrechter Oberkörper heißt mehr Trizeps.",
+   "Gewicht am Gürtel, wenn es zu leicht wird."
+  ],
+  "mistakes": [
+   "Unten aus der Dehnung federn."
+  ]
+ },
+ {
+  "id": "enges-bankdruecken",
+  "name": "Enges Bankdrücken",
+  "pattern": "push_h",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Langhantel und Flachbank",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "trizeps_kurz",
+   "brust"
+  ],
+  "secondary": [
+   "schulter_vorne",
+   "trizeps_lang"
+  ],
+  "source": "Close-Grip_Barbell_Bench_Press",
+  "setup": "Leg dich auf die Bank und greif die Stange etwa schulterbreit.",
+  "steps": [
+   "Heb die Stange aus.",
+   "Senk sie zur unteren Brust, die Ellbogen bleiben nah am Körper.",
+   "Drück sie wieder nach oben."
+  ],
+  "cues": [
+   "Schulterbreit reicht, enger belastet die Handgelenke.",
+   "Schulterblätter zusammen."
+  ],
+  "mistakes": [
+   "Die Ellbogen weit nach außen öffnen."
+  ]
+ },
+ {
+  "id": "kh-kickback",
+  "name": "Kickback mit Kurzhantel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhantel",
+  "bodyweight": false,
+  "step": 1,
+  "primary": [
+   "trizeps_kurz"
+  ],
+  "secondary": [],
+  "source": "Tricep_Dumbbell_Kickback",
+  "setup": "Beug dich mit geradem Rücken nach vorn und stütz eine Hand ab. Der Oberarm des anderen Arms liegt waagerecht am Körper.",
+  "steps": [
+   "Streck den Unterarm nach hinten, bis der Arm gerade ist.",
+   "Halte kurz an.",
+   "Beug ihn langsam zurück."
+  ],
+  "cues": [
+   "Der Oberarm bewegt sich nicht.",
+   "Leichtes Gewicht."
+  ],
+  "mistakes": [
+   "Mit Schwung aus der Schulter arbeiten."
+  ]
+ },
+ {
+  "id": "kh-handgelenk-curl",
+  "name": "Handgelenkcurl",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln und Stuhl",
+  "bodyweight": false,
+  "step": 1,
+  "primary": [
+   "unterarm"
+  ],
+  "secondary": [],
+  "source": "Seated_Dumbbell_Palms-Up_Wrist_Curl",
+  "setup": "Setz dich und leg die Unterarme auf die Oberschenkel, die Handgelenke ragen über die Knie, Handflächen nach oben.",
+  "steps": [
+   "Lass die Hanteln nach unten abrollen.",
+   "Beug die Handgelenke und heb die Hanteln so weit wie möglich.",
+   "Senk sie langsam."
+  ],
+  "cues": [
+   "Nur die Handgelenke bewegen sich.",
+   "Viele Wiederholungen sind normal."
+  ],
+  "mistakes": [
+   "Die Unterarme vom Bein heben."
+  ]
+ },
+ {
+  "id": "kh-handgelenk-reverse",
+  "name": "Handgelenkcurl im Obergriff",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln und Stuhl",
+  "bodyweight": false,
+  "step": 1,
+  "primary": [
+   "unterarm"
+  ],
+  "secondary": [],
+  "source": "Seated_Dumbbell_Palms-Down_Wrist_Curl",
+  "setup": "Setz dich und leg die Unterarme auf die Oberschenkel, Handflächen nach unten.",
+  "steps": [
+   "Lass die Hände nach unten sinken.",
+   "Heb die Handrücken so weit wie möglich nach oben.",
+   "Senk sie langsam."
+  ],
+  "cues": [
+   "Deutlich leichter als der normale Handgelenkcurl.",
+   "Ruhig und kontrolliert."
+  ],
+  "mistakes": [
+   "Mit den Armen mitschwingen."
+  ]
+ },
+ {
+  "id": "lh-handgelenk-curl",
+  "name": "Handgelenkcurl mit Langhantel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Langhantel und Flachbank",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "unterarm"
+  ],
+  "secondary": [],
+  "source": "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench",
+  "setup": "Knie dich vor eine Bank und leg die Unterarme darauf, die Hände ragen über die Kante, Untergriff.",
+  "steps": [
+   "Lass die Stange bis in die Finger abrollen.",
+   "Schließ die Hand und beug das Handgelenk nach oben.",
+   "Senk die Stange langsam."
+  ],
+  "cues": [
+   "Volle Bewegung bis in die Finger.",
+   "Unterarme bleiben liegen."
+  ],
+  "mistakes": [
+   "Zu schwer wählen und nur wippen."
+  ]
+ },
+ {
+  "id": "crunch",
+  "name": "Crunch",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "bauch"
+  ],
+  "secondary": [],
+  "source": "Crunches",
+  "setup": "Leg dich auf den Rücken, die Knie sind gebeugt, die Füße stehen am Boden. Die Hände liegen locker an den Schläfen.",
+  "steps": [
+   "Roll den Oberkörper ein, bis die Schulterblätter vom Boden abheben.",
+   "Halte oben kurz an und atme aus.",
+   "Roll langsam zurück."
+  ],
+  "cues": [
+   "Der untere Rücken bleibt am Boden.",
+   "Zwischen Kinn und Brust passt eine Faust."
+  ],
+  "mistakes": [
+   "Am Kopf ziehen."
+  ]
+ },
+ {
+  "id": "reverse-crunch",
+  "name": "Reverse Crunch",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "bauch"
+  ],
+  "secondary": [],
+  "source": "Reverse_Crunch",
+  "setup": "Leg dich auf den Rücken, die Arme liegen neben dem Körper. Heb die Beine an, die Knie sind gebeugt.",
+  "steps": [
+   "Zieh die Knie zur Brust und roll das Becken vom Boden ab.",
+   "Halte oben kurz an.",
+   "Senk das Becken langsam wieder ab."
+  ],
+  "cues": [
+   "Die Bewegung kommt aus dem Bauch, nicht aus Schwung.",
+   "Langsam zurück."
+  ],
+  "mistakes": [
+   "Die Beine nach oben schleudern."
+  ]
+ },
+ {
+  "id": "dead-bug",
+  "name": "Dead Bug",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "bauch"
+  ],
+  "secondary": [
+   "bauch_schraeg"
+  ],
+  "source": "Dead_Bug",
+  "setup": "Leg dich auf den Rücken. Die Arme zeigen senkrecht nach oben, die Beine sind angehoben, Knie 90 Grad gebeugt.",
+  "steps": [
+   "Drück den unteren Rücken fest in den Boden.",
+   "Streck einen Arm nach hinten und das gegenüberliegende Bein nach vorn, knapp über den Boden.",
+   "Komm zurück und wechsle die Seite. Jede Seite zählt als eine Wiederholung."
+  ],
+  "cues": [
+   "Der Rücken darf sich nicht vom Boden lösen.",
+   "Langsam und ruhig atmen."
+  ],
+  "mistakes": [
+   "Ins Hohlkreuz fallen, wenn das Bein nach vorn geht."
+  ]
+ },
+ {
+  "id": "haengendes-beinheben",
+  "name": "Hängendes Beinheben",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Klimmzugstange",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "bauch"
+  ],
+  "secondary": [
+   "bauch_schraeg"
+  ],
+  "source": "Hanging_Leg_Raise",
+  "setup": "Häng dich mit gestreckten Armen an die Stange.",
+  "steps": [
+   "Heb die Beine, bis die Oberschenkel waagerecht sind oder höher.",
+   "Roll das Becken oben leicht ein.",
+   "Senk die Beine langsam, ohne zu schwingen."
+  ],
+  "cues": [
+   "Mit gebeugten Knien ist es leichter.",
+   "Ruhig hängen, Schwung vermeiden."
+  ],
+  "mistakes": [
+   "Hin und her schaukeln."
+  ]
+ },
+ {
+  "id": "kabel-crunch",
+  "name": "Crunch am Kabel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug mit Seil",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "bauch"
+  ],
+  "secondary": [],
+  "source": "Cable_Crunch",
+  "setup": "Häng das Seil oben ein, knie dich davor und halte die Enden neben dem Kopf.",
+  "steps": [
+   "Roll den Oberkörper nach unten ein, die Ellbogen gehen Richtung Knie.",
+   "Halte unten kurz an.",
+   "Roll dich langsam wieder auf."
+  ],
+  "cues": [
+   "Die Hüfte bleibt ruhig, nur der Rücken rollt ein.",
+   "Ausatmen beim Einrollen."
+  ],
+  "mistakes": [
+   "Mit der Hüfte nach hinten sitzen und das Gewicht ziehen."
+  ]
+ },
+ {
+  "id": "bauchmaschine",
+  "name": "Bauchmaschine",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Bauchmaschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "bauch"
+  ],
+  "secondary": [],
+  "source": "Ab_Crunch_Machine",
+  "setup": "Setz dich in die Maschine, stell die Füße unter die Polster und greif die Griffe.",
+  "steps": [
+   "Roll den Oberkörper nach vorn ein.",
+   "Halte kurz an.",
+   "Lass dich langsam zurück."
+  ],
+  "cues": [
+   "Bewegung aus dem Bauch.",
+   "Ruhiges Tempo."
+  ],
+  "mistakes": [
+   "Mit den Armen ziehen."
+  ]
+ },
+ {
+  "id": "russian-twist",
+  "name": "Russian Twist",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "bauch_schraeg"
+  ],
+  "secondary": [
+   "bauch"
+  ],
+  "source": "Russian_Twist",
+  "setup": "Setz dich auf den Boden, die Knie sind gebeugt. Lehn dich mit geradem Rücken etwas zurück und falte die Hände vor der Brust.",
+  "steps": [
+   "Dreh den Oberkörper zur einen Seite.",
+   "Dreh ihn über die Mitte zur anderen Seite.",
+   "Jede Seite zählt als eine Wiederholung."
+  ],
+  "cues": [
+   "Der Rücken bleibt gerade.",
+   "Mit einer Hantel in den Händen wird es schwerer."
+  ],
+  "mistakes": [
+   "Nur die Arme hin und her schwingen."
+  ]
+ },
+ {
+  "id": "crunch-diagonal",
+  "name": "Diagonaler Crunch",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "bauch_schraeg"
+  ],
+  "secondary": [
+   "bauch"
+  ],
+  "source": "Cross-Body_Crunch",
+  "setup": "Leg dich auf den Rücken, die Knie sind gebeugt, die Hände an den Schläfen.",
+  "steps": [
+   "Roll den Oberkörper ein und führ den rechten Ellbogen zum linken Knie.",
+   "Roll zurück.",
+   "Wechsle die Seite."
+  ],
+  "cues": [
+   "Die Drehung kommt aus dem Oberkörper.",
+   "Langsam zurück."
+  ],
+  "mistakes": [
+   "Am Kopf ziehen."
+  ]
+ },
+ {
+  "id": "kh-seitbeugen",
+  "name": "Seitbeugen mit Kurzhantel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhantel",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "bauch_schraeg"
+  ],
+  "secondary": [],
+  "source": "Dumbbell_Side_Bend",
+  "setup": "Stell dich aufrecht hin und halte eine Kurzhantel seitlich in einer Hand.",
+  "steps": [
+   "Neig den Oberkörper zur Seite der Hantel.",
+   "Richte dich mit den seitlichen Bauchmuskeln wieder auf und geh etwas über die Mitte hinaus.",
+   "Mach alle Wiederholungen und wechsle dann die Seite."
+  ],
+  "cues": [
+   "Nur zur Seite, nicht nach vorn beugen.",
+   "Die freie Hand liegt an der Hüfte."
+  ],
+  "mistakes": [
+   "In jeder Hand eine Hantel halten, dann gleicht sich die Last aus."
+  ]
+ },
+ {
+  "id": "kabel-holzhacker",
+  "name": "Holzhacker am Kabel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "bauch_schraeg"
+  ],
+  "secondary": [
+   "bauch"
+  ],
+  "source": "Standing_Cable_Wood_Chop",
+  "setup": "Stell die Rolle oben ein und stell dich seitlich zum Turm. Greif den Griff mit beiden Händen über der Schulter.",
+  "steps": [
+   "Zieh den Griff diagonal nach unten zur gegenüberliegenden Hüfte.",
+   "Dreh dabei den Oberkörper, die Arme bleiben fast gestreckt.",
+   "Führ ihn langsam zurück."
+  ],
+  "cues": [
+   "Die Drehung kommt aus dem Rumpf.",
+   "Hüfte und Knie drehen leicht mit."
+  ],
+  "mistakes": [
+   "Mit den Armen ziehen statt zu drehen."
+  ]
+ },
+ {
+  "id": "pallof-press",
+  "name": "Pallof Press",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "bauch_schraeg"
+  ],
+  "secondary": [
+   "bauch"
+  ],
+  "source": "Pallof_Press",
+  "setup": "Stell die Rolle auf Brusthöhe und stell dich seitlich zum Turm. Halte den Griff mit beiden Händen vor der Brust.",
+  "steps": [
+   "Drück den Griff gerade nach vorn, bis die Arme gestreckt sind.",
+   "Halte zwei Sekunden, ohne dass der Zug dich verdreht.",
+   "Führ ihn zurück zur Brust."
+  ],
+  "cues": [
+   "Der Rumpf hält gegen die Drehung, das ist die Übung.",
+   "Stabil stehen."
+  ],
+  "mistakes": [
+   "Mit dem Oberkörper zum Turm kippen."
+  ]
+ },
+ {
+  "id": "lh-kniebeuge",
+  "name": "Kniebeuge mit Langhantel",
+  "pattern": "squat",
+  "role": "heavy",
+  "level": 3,
+  "equipment": "Langhantel und Rack",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "quadrizeps",
+   "gluteus_max"
+  ],
+  "secondary": [
+   "adduktoren",
+   "rueckenstrecker"
+  ],
+  "source": "Barbell_Squat",
+  "setup": "Leg die Stange im Rack auf den oberen Rücken, nicht auf den Nacken. Stell die Füße etwa schulterbreit, Fußspitzen leicht nach außen.",
+  "steps": [
+   "Heb die Stange aus und geh einen Schritt zurück.",
+   "Beug Knie und Hüfte gleichzeitig und senk dich ab, bis die Oberschenkel mindestens waagerecht sind.",
+   "Drück dich kraftvoll wieder nach oben."
+  ],
+  "cues": [
+   "Die Knie zeigen in Richtung der Fußspitzen.",
+   "Brust oben, Rücken gerade."
+  ],
+  "mistakes": [
+   "Die Knie nach innen fallen lassen.",
+   "Die Fersen vom Boden heben."
+  ]
+ },
+ {
+  "id": "kniebeuge",
+  "name": "Kniebeuge ohne Gewicht",
+  "pattern": "squat",
+  "role": "compound",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "quadrizeps"
+  ],
+  "secondary": [
+   "gluteus_max",
+   "adduktoren"
+  ],
+  "source": "Bodyweight_Squat",
+  "setup": "Stell die Füße etwa schulterbreit, Fußspitzen leicht nach außen. Die Arme sind vor dem Körper.",
+  "steps": [
+   "Schieb die Hüfte nach hinten und beug die Knie.",
+   "Geh so tief, wie du mit geradem Rücken kommst.",
+   "Drück dich über die ganze Fußsohle wieder hoch."
+  ],
+  "cues": [
+   "Langsam runter, zügig hoch.",
+   "Wenn es zu leicht wird: drei Sekunden absenken."
+  ],
+  "mistakes": [
+   "Die Knie nach innen fallen lassen."
+  ]
+ },
+ {
+  "id": "kh-kniebeuge",
+  "name": "Kniebeuge mit Kurzhanteln",
+  "pattern": "squat",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "quadrizeps",
+   "gluteus_max"
+  ],
+  "secondary": [
+   "adduktoren"
+  ],
+  "source": "Dumbbell_Squat",
+  "setup": "Halte die Kurzhanteln seitlich neben dem Körper, Füße schulterbreit.",
+  "steps": [
+   "Beug Knie und Hüfte und senk dich ab.",
+   "Geh so tief, wie du mit geradem Rücken kommst.",
+   "Drück dich wieder hoch."
+  ],
+  "cues": [
+   "Die Hanteln hängen locker, der Rumpf ist fest.",
+   "Knie folgen den Fußspitzen."
+  ],
+  "mistakes": [
+   "Den Oberkörper weit nach vorn kippen."
+  ]
+ },
+ {
+  "id": "beinpresse",
+  "name": "Beinpresse",
+  "pattern": "squat",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Beinpresse",
+  "bodyweight": false,
+  "step": 5,
+  "primary": [
+   "quadrizeps",
+   "gluteus_max"
+  ],
+  "secondary": [
+   "adduktoren"
+  ],
+  "source": "Leg_Press",
+  "setup": "Setz dich in die Maschine, der Rücken liegt an. Stell die Füße schulterbreit mitten auf die Platte.",
+  "steps": [
+   "Löse die Sicherung.",
+   "Beug die Knie und lass die Platte kommen, bis die Knie etwa 90 Grad gebeugt sind.",
+   "Drück die Platte wieder weg, ohne die Knie ganz durchzustrecken."
+  ],
+  "cues": [
+   "Der Po bleibt am Sitz.",
+   "Höhere Fußstellung nimmt mehr Gesäß mit."
+  ],
+  "mistakes": [
+   "So tief gehen, dass sich das Becken vom Sitz hebt."
+  ]
+ },
+ {
+  "id": "hackenschmidt",
+  "name": "Hackenschmidt-Kniebeuge",
+  "pattern": "squat",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Hackenschmidt-Maschine",
+  "bodyweight": false,
+  "step": 5,
+  "primary": [
+   "quadrizeps"
+  ],
+  "secondary": [
+   "gluteus_max"
+  ],
+  "source": "Hack_Squat",
+  "setup": "Stell dich in die Maschine, die Schultern liegen unter den Polstern, die Füße stehen schulterbreit auf der Platte.",
+  "steps": [
+   "Löse die Sicherung.",
+   "Beug die Knie und senk dich tief ab.",
+   "Drück dich wieder hoch."
+  ],
+  "cues": [
+   "Sehr gut für den Quadrizeps.",
+   "Rücken bleibt am Polster."
+  ],
+  "mistakes": [
+   "Die Knie oben durchschnappen lassen."
+  ]
+ },
+ {
+  "id": "beinstrecker",
+  "name": "Beinstrecker",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Beinstrecker-Maschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "quadrizeps"
+  ],
+  "secondary": [],
+  "source": "Leg_Extensions",
+  "setup": "Setz dich in die Maschine, das Polster liegt vorn auf den Schienbeinen knapp über dem Fuß. Die Knie sind auf Höhe der Drehachse.",
+  "steps": [
+   "Streck die Beine, bis sie gerade sind.",
+   "Halte oben kurz an.",
+   "Senk das Gewicht langsam."
+  ],
+  "cues": [
+   "Oben den Oberschenkel fest anspannen.",
+   "Halt dich an den Griffen fest."
+  ],
+  "mistakes": [
+   "Mit Schwung arbeiten und das Gewicht fallen lassen."
+  ]
+ },
+ {
+  "id": "kh-ausfallschritt",
+  "name": "Ausfallschritt mit Kurzhanteln",
+  "pattern": "squat",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "quadrizeps",
+   "gluteus_max"
+  ],
+  "secondary": [
+   "adduktoren",
+   "beinbizeps"
+  ],
+  "source": "Dumbbell_Lunges",
+  "setup": "Stell dich aufrecht hin und halte die Kurzhanteln seitlich neben dem Körper.",
+  "steps": [
+   "Mach einen großen Schritt nach vorn.",
+   "Senk das hintere Knie, bis es knapp über dem Boden ist.",
+   "Drück dich über die vordere Ferse zurück. Wechsle das Bein."
+  ],
+  "cues": [
+   "Der Oberkörper bleibt aufrecht.",
+   "Das vordere Knie bleibt über dem Fuß."
+  ],
+  "mistakes": [
+   "Einen zu kurzen Schritt machen, dann rutscht das Knie weit vor."
+  ]
+ },
+ {
+  "id": "ausfallschritt",
+  "name": "Ausfallschritt ohne Gewicht",
+  "pattern": "squat",
+  "role": "compound",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "quadrizeps",
+   "gluteus_max"
+  ],
+  "secondary": [
+   "adduktoren"
+  ],
+  "source": "Bodyweight_Walking_Lunge",
+  "setup": "Stell dich aufrecht hin, die Hände an der Hüfte.",
+  "steps": [
+   "Mach einen großen Schritt nach vorn und senk das hintere Knie Richtung Boden.",
+   "Drück dich hoch und setz den nächsten Schritt mit dem anderen Bein.",
+   "Jedes Bein zählt als eine Wiederholung."
+  ],
+  "cues": [
+   "Ruhig und aufrecht gehen.",
+   "Geht auch auf der Stelle."
+  ],
+  "mistakes": [
+   "Das hintere Knie auf den Boden knallen lassen."
+  ]
+ },
+ {
+  "id": "bulgarian-split-squat",
+  "name": "Bulgarian Split Squat",
+  "pattern": "squat",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Kurzhanteln und Stuhl",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "quadrizeps",
+   "gluteus_max"
+  ],
+  "secondary": [
+   "adduktoren"
+  ],
+  "source": "Split_Squat_with_Dumbbells",
+  "setup": "Stell dich mit dem Rücken zu einer Bank oder einem Stuhl und leg einen Fußrücken darauf. Halte die Kurzhanteln seitlich.",
+  "steps": [
+   "Senk dich ab, bis der vordere Oberschenkel etwa waagerecht ist.",
+   "Drück dich über die vordere Ferse hoch.",
+   "Mach alle Wiederholungen und wechsle dann das Bein."
+  ],
+  "cues": [
+   "Weiter vorn stehen trifft mehr den Quadrizeps, leicht vorgebeugt mehr das Gesäß.",
+   "Erst ohne Hanteln üben."
+  ],
+  "mistakes": [
+   "Das vordere Knie nach innen fallen lassen."
+  ]
+ },
+ {
+  "id": "rumaenisches-kreuzheben",
+  "name": "Rumänisches Kreuzheben",
+  "pattern": "hinge",
+  "role": "heavy",
+  "level": 3,
+  "equipment": "Langhantel",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "beinbizeps",
+   "gluteus_max"
+  ],
+  "secondary": [
+   "rueckenstrecker",
+   "unterarm"
+  ],
+  "source": "Romanian_Deadlift",
+  "setup": "Halte die Stange schulterbreit vor den Oberschenkeln, die Knie sind leicht gebeugt.",
+  "steps": [
+   "Schieb die Hüfte nach hinten und lass die Stange nah an den Beinen nach unten gleiten.",
+   "Geh so weit, bis du eine starke Dehnung hinten im Oberschenkel spürst, meist bis unter die Knie.",
+   "Schieb die Hüfte wieder nach vorn und richte dich auf."
+  ],
+  "cues": [
+   "Der Rücken bleibt gerade, die Knie bleiben fast gleich gebeugt.",
+   "Die Stange berührt fast die Beine."
+  ],
+  "mistakes": [
+   "Die Stange mit rundem Rücken bis zum Boden bringen."
+  ]
+ },
+ {
+  "id": "kh-rumaenisches-kreuzheben",
+  "name": "Rumänisches Kreuzheben mit Kurzhanteln",
+  "pattern": "hinge",
+  "role": "compound",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "beinbizeps",
+   "gluteus_max"
+  ],
+  "secondary": [
+   "rueckenstrecker"
+  ],
+  "source": "Stiff-Legged_Dumbbell_Deadlift",
+  "setup": "Halte die Kurzhanteln vor den Oberschenkeln, die Knie sind leicht gebeugt.",
+  "steps": [
+   "Schieb die Hüfte nach hinten und senk die Hanteln nah an den Beinen.",
+   "Geh bis zur deutlichen Dehnung hinten im Oberschenkel.",
+   "Richte dich aus der Hüfte wieder auf."
+  ],
+  "cues": [
+   "Rücken gerade, Blick schräg nach unten.",
+   "Oben den Po anspannen."
+  ],
+  "mistakes": [
+   "In die Knie gehen und daraus eine Kniebeuge machen."
+  ]
+ },
+ {
+  "id": "beinbeuger-sitzend",
+  "name": "Beinbeuger sitzend",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Beinbeuger-Maschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "beinbizeps"
+  ],
+  "secondary": [],
+  "source": "Seated_Leg_Curl",
+  "setup": "Setz dich in die Maschine, das Polster liegt hinten knapp über den Fersen. Das obere Polster fixiert die Oberschenkel.",
+  "steps": [
+   "Beug die Knie und zieh die Fersen unter den Sitz.",
+   "Halte unten kurz an.",
+   "Lass die Beine langsam zurück."
+  ],
+  "cues": [
+   "Im Sitzen ist der Beinbizeps stärker gedehnt als im Liegen.",
+   "Langsam zurück."
+  ],
+  "mistakes": [
+   "Die Hüfte vom Sitz heben."
+  ]
+ },
+ {
+  "id": "beinbeuger-liegend",
+  "name": "Beinbeuger liegend",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Beinbeuger-Maschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "beinbizeps"
+  ],
+  "secondary": [],
+  "source": "Lying_Leg_Curls",
+  "setup": "Leg dich bäuchlings in die Maschine, das Polster liegt hinten knapp über den Fersen.",
+  "steps": [
+   "Beug die Knie und zieh die Fersen zum Po.",
+   "Halte kurz an.",
+   "Senk das Gewicht langsam."
+  ],
+  "cues": [
+   "Die Hüfte bleibt auf dem Polster.",
+   "Volle Streckung unten."
+  ],
+  "mistakes": [
+   "Die Hüfte hochdrücken, um mehr Gewicht zu schaffen."
+  ]
+ },
+ {
+  "id": "nordic-curl",
+  "name": "Nordic Curl",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 1,
+  "equipment": "Körpergewicht und Sofa oder Partner",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "beinbizeps"
+  ],
+  "secondary": [
+   "gluteus_max"
+  ],
+  "source": "Floor_Glute-Ham_Raise",
+  "setup": "Knie dich auf eine weiche Unterlage und klemm die Fersen unter etwas Schweres, zum Beispiel ein Sofa, oder lass sie festhalten.",
+  "steps": [
+   "Der Körper ist von Knie bis Kopf gerade.",
+   "Lass dich so langsam wie möglich nach vorn fallen und bremse mit dem Beinbizeps.",
+   "Fang dich mit den Händen ab und drück dich zurück in die Ausgangsposition."
+  ],
+  "cues": [
+   "Sehr schwer, schon das langsame Ablassen wirkt.",
+   "Hüfte gestreckt lassen."
+  ],
+  "mistakes": [
+   "In der Hüfte abknicken."
+  ]
+ },
+ {
+  "id": "hip-thrust",
+  "name": "Hip Thrust",
+  "pattern": "hinge",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Langhantel und Flachbank",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "gluteus_max"
+  ],
+  "secondary": [
+   "beinbizeps"
+  ],
+  "source": "Barbell_Hip_Thrust",
+  "setup": "Setz dich mit dem oberen Rücken an die Längsseite einer Bank. Roll die gepolsterte Stange über die Hüfte, die Füße stehen hüftbreit.",
+  "steps": [
+   "Drück die Hüfte nach oben, bis Oberschenkel und Oberkörper eine Linie bilden.",
+   "Spann oben den Po fest an.",
+   "Senk die Hüfte langsam ab."
+  ],
+  "cues": [
+   "Kinn leicht eingezogen, Blick nach vorn.",
+   "Oben stehen die Schienbeine senkrecht."
+  ],
+  "mistakes": [
+   "Oben ins Hohlkreuz drücken statt den Po anzuspannen."
+  ]
+ },
+ {
+  "id": "glute-bridge",
+  "name": "Glute Bridge",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "gluteus_max"
+  ],
+  "secondary": [
+   "beinbizeps"
+  ],
+  "source": "Butt_Lift_Bridge",
+  "setup": "Leg dich auf den Rücken, die Knie sind gebeugt, die Füße stehen hüftbreit nah am Po.",
+  "steps": [
+   "Drück über die Fersen die Hüfte nach oben.",
+   "Spann oben den Po fest an.",
+   "Senk die Hüfte langsam ab."
+  ],
+  "cues": [
+   "Oben bildet der Körper von Knie bis Schulter eine Linie.",
+   "Mit einer Hantel auf der Hüfte schwerer."
+  ],
+  "mistakes": [
+   "Ins Hohlkreuz drücken."
+  ]
+ },
+ {
+  "id": "glute-bridge-einbeinig",
+  "name": "Einbeinige Glute Bridge",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "gluteus_max"
+  ],
+  "secondary": [
+   "beinbizeps"
+  ],
+  "source": "Single_Leg_Glute_Bridge",
+  "setup": "Leg dich auf den Rücken, ein Fuß steht am Boden, das andere Bein ist gestreckt angehoben.",
+  "steps": [
+   "Drück über die Ferse des Standbeins die Hüfte nach oben.",
+   "Halte oben kurz an, die Hüfte bleibt gerade.",
+   "Senk sie langsam ab und wechsle nach dem Satz das Bein."
+  ],
+  "cues": [
+   "Becken nicht zur Seite kippen lassen.",
+   "Deutlich schwerer als beidbeinig."
+  ],
+  "mistakes": [
+   "Mit dem gestreckten Bein Schwung holen."
+  ]
+ },
+ {
+  "id": "kickback-vierfuessler",
+  "name": "Kickback im Vierfüßlerstand",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 1,
+  "equipment": "Körpergewicht",
+  "bodyweight": true,
+  "step": 0,
+  "primary": [
+   "gluteus_max"
+  ],
+  "secondary": [
+   "beinbizeps"
+  ],
+  "source": "Glute_Kickback",
+  "setup": "Geh in den Vierfüßlerstand, Hände unter den Schultern, Knie unter der Hüfte.",
+  "steps": [
+   "Streck ein Bein nach hinten oben, bis es in einer Linie mit dem Rücken ist.",
+   "Spann oben den Po an.",
+   "Führ das Knie langsam zurück und wechsle nach dem Satz die Seite."
+  ],
+  "cues": [
+   "Rücken bleibt gerade.",
+   "Mit Gewichtsmanschette schwerer."
+  ],
+  "mistakes": [
+   "Das Bein zu hoch heben und ins Hohlkreuz gehen."
+  ]
+ },
+ {
+  "id": "kabel-kickback",
+  "name": "Kickback am Kabel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Kabelzug mit Fußschlaufe",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "gluteus_max"
+  ],
+  "secondary": [
+   "beinbizeps"
+  ],
+  "source": "One-Legged_Cable_Kickback",
+  "setup": "Leg die Fußschlaufe um ein Fußgelenk, stell die Rolle ganz unten ein und halte dich am Turm fest.",
+  "steps": [
+   "Streck das Bein mit leicht gebeugtem Knie nach hinten.",
+   "Spann oben den Po an.",
+   "Führ es langsam zurück und wechsle nach dem Satz das Bein."
+  ],
+  "cues": [
+   "Oberkörper leicht vorgebeugt.",
+   "Kleine, saubere Bewegung."
+  ],
+  "mistakes": [
+   "Mit dem Rücken nachhelfen."
+  ]
+ },
+ {
+  "id": "kabel-pull-through",
+  "name": "Pull Through am Kabel",
+  "pattern": "hinge",
+  "role": "compound",
+  "level": 3,
+  "equipment": "Kabelzug mit Seil",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "gluteus_max",
+   "beinbizeps"
+  ],
+  "secondary": [
+   "rueckenstrecker"
+  ],
+  "source": "Pull_Through",
+  "setup": "Häng das Seil unten ein, dreh dem Turm den Rücken zu und greif das Seil zwischen den Beinen. Geh zwei Schritte nach vorn.",
+  "steps": [
+   "Schieb die Hüfte nach hinten, das Seil geht zwischen die Beine.",
+   "Streck die Hüfte kraftvoll nach vorn, bis du aufrecht stehst.",
+   "Spann oben den Po an."
+  ],
+  "cues": [
+   "Die Arme ziehen nicht, sie halten nur.",
+   "Rücken gerade."
+  ],
+  "mistakes": [
+   "Aus den Knien statt aus der Hüfte arbeiten."
+  ]
+ },
+ {
+  "id": "monster-walk",
+  "name": "Monster Walk",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Widerstandsband",
+  "bodyweight": false,
+  "step": 0,
+  "primary": [
+   "gluteus_med"
+  ],
+  "secondary": [],
+  "source": "Monster_Walk",
+  "setup": "Leg ein Band um beide Beine knapp über die Knie oder um die Fußgelenke. Geh leicht in die Knie.",
+  "steps": [
+   "Mach kleine Schritte schräg nach vorn, abwechselnd links und rechts.",
+   "Halte das Band immer gespannt.",
+   "Geh danach dieselbe Strecke seitwärts. Jeder Schritt zählt als eine Wiederholung."
+  ],
+  "cues": [
+   "Die Knie drücken gegen das Band nach außen.",
+   "Oberkörper bleibt ruhig."
+  ],
+  "mistakes": [
+   "Die Füße zusammenziehen, so dass das Band locker wird."
+  ]
+ },
+ {
+  "id": "abduktorenmaschine",
+  "name": "Abduktoren an der Maschine",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Abduktorenmaschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "gluteus_med"
+  ],
+  "secondary": [],
+  "source": "Thigh_Abductor",
+  "setup": "Setz dich in die Maschine, die Polster liegen außen an den Knien.",
+  "steps": [
+   "Drück die Beine nach außen auseinander.",
+   "Halte kurz an.",
+   "Lass sie langsam zurück."
+  ],
+  "cues": [
+   "Leicht nach vorn gelehnt trifft mehr Gesäß.",
+   "Ruhiges Tempo."
+  ],
+  "mistakes": [
+   "Das Gewicht zurückschlagen lassen."
+  ]
+ },
+ {
+  "id": "band-adduktion",
+  "name": "Adduktion mit Widerstandsband",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Widerstandsband",
+  "bodyweight": false,
+  "step": 0,
+  "primary": [
+   "adduktoren"
+  ],
+  "secondary": [],
+  "source": "Band_Hip_Adductions",
+  "setup": "Befestige das Band nah am Boden und stell dich seitlich daneben. Leg das Band um das innere Fußgelenk.",
+  "steps": [
+   "Zieh das Bein vor dem Standbein vorbei nach innen.",
+   "Halte kurz an.",
+   "Führ es langsam zurück und wechsle nach dem Satz die Seite."
+  ],
+  "cues": [
+   "Halt dich an etwas fest.",
+   "Oberkörper aufrecht."
+  ],
+  "mistakes": [
+   "Mit dem Oberkörper zur Seite kippen."
+  ]
+ },
+ {
+  "id": "adduktorenmaschine",
+  "name": "Adduktoren an der Maschine",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Adduktorenmaschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "adduktoren"
+  ],
+  "secondary": [],
+  "source": "Thigh_Adductor",
+  "setup": "Setz dich in die Maschine, die Polster liegen innen an den Knien. Stell die Öffnung so ein, dass du eine leichte Dehnung spürst.",
+  "steps": [
+   "Drück die Beine zusammen.",
+   "Halte kurz an.",
+   "Lass sie langsam auseinander."
+  ],
+  "cues": [
+   "Die Dehnung außen nicht übertreiben.",
+   "Rücken am Polster."
+  ],
+  "mistakes": [
+   "Mit Schwung zusammenschlagen."
+  ]
+ },
+ {
+  "id": "wadenheben-maschine",
+  "name": "Wadenheben stehend an der Maschine",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Wadenmaschine",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "wade"
+  ],
+  "secondary": [
+   "soleus"
+  ],
+  "source": "Standing_Calf_Raises",
+  "setup": "Stell dich mit den Fußballen auf die Kante, die Schultern liegen unter den Polstern, die Knie sind gestreckt.",
+  "steps": [
+   "Lass die Fersen so tief wie möglich sinken.",
+   "Drück dich auf die Zehenspitzen.",
+   "Halte oben kurz an und senk dich langsam ab."
+  ],
+  "cues": [
+   "Mit gestreckten Knien arbeitet der Gastrocnemius.",
+   "Unten eine Sekunde in der Dehnung bleiben."
+  ],
+  "mistakes": [
+   "Schnell federn statt die volle Bewegung zu machen."
+  ]
+ },
+ {
+  "id": "kh-wadenheben",
+  "name": "Wadenheben mit Kurzhanteln",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "wade"
+  ],
+  "secondary": [
+   "soleus"
+  ],
+  "source": "Standing_Dumbbell_Calf_Raise",
+  "setup": "Stell dich mit den Fußballen auf eine Stufe oder ein dickes Buch und halte die Kurzhanteln seitlich. Die Knie sind gestreckt.",
+  "steps": [
+   "Lass die Fersen tief sinken.",
+   "Drück dich auf die Zehenspitzen.",
+   "Senk dich langsam wieder ab."
+  ],
+  "cues": [
+   "Einbeinig mit einer Hantel wird es schwerer.",
+   "Halt dich mit einer Hand fest, wenn nötig."
+  ],
+  "mistakes": [
+   "Die Knie beugen und mit den Beinen mitdrücken."
+  ]
+ },
+ {
+  "id": "wadenheben-beinpresse",
+  "name": "Wadenheben an der Beinpresse",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Beinpresse",
+  "bodyweight": false,
+  "step": 5,
+  "primary": [
+   "wade"
+  ],
+  "secondary": [
+   "soleus"
+  ],
+  "source": "Calf_Press_On_The_Leg_Press_Machine",
+  "setup": "Setz dich in die Beinpresse und stell nur die Fußballen unten an die Kante der Platte. Die Beine sind fast gestreckt.",
+  "steps": [
+   "Drück die Platte mit den Fußballen weg, bis die Füße gestreckt sind.",
+   "Halte kurz an.",
+   "Lass die Platte langsam zurück, bis die Waden gedehnt sind."
+  ],
+  "cues": [
+   "Die Sicherung bleibt erreichbar.",
+   "Knie bleiben fast gestreckt."
+  ],
+  "mistakes": [
+   "Die Knie beugen und mit den Oberschenkeln drücken."
+  ]
+ },
+ {
+  "id": "wadenheben-sitzend-maschine",
+  "name": "Wadenheben sitzend an der Maschine",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Wadenmaschine sitzend",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "soleus"
+  ],
+  "secondary": [],
+  "source": "Seated_Calf_Raise",
+  "setup": "Setz dich in die Maschine, die Polster liegen auf den Oberschenkeln knapp über den Knien. Die Fußballen stehen auf der Kante.",
+  "steps": [
+   "Lass die Fersen tief sinken.",
+   "Drück dich auf die Zehenspitzen.",
+   "Halte oben kurz an und senk dich langsam ab."
+  ],
+  "cues": [
+   "Mit gebeugten Knien arbeitet vor allem der Schollenmuskel.",
+   "Volle Bewegung."
+  ],
+  "mistakes": [
+   "Nur wippen."
+  ]
+ },
+ {
+  "id": "kh-wadenheben-sitzend",
+  "name": "Wadenheben sitzend mit Kurzhantel",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 2,
+  "equipment": "Kurzhanteln und Stuhl",
+  "bodyweight": false,
+  "step": 2,
+  "primary": [
+   "soleus"
+  ],
+  "secondary": [],
+  "source": "Dumbbell_Seated_One-Leg_Calf_Raise",
+  "setup": "Setz dich auf einen Stuhl, stell einen Fußballen auf ein dickes Buch und leg eine Kurzhantel auf das Knie.",
+  "steps": [
+   "Lass die Ferse sinken.",
+   "Drück dich auf die Zehenspitzen.",
+   "Senk die Ferse langsam und wechsle nach dem Satz das Bein."
+  ],
+  "cues": [
+   "Mit der Hand die Hantel festhalten.",
+   "Gebeugte Knie treffen den Schollenmuskel."
+  ],
+  "mistakes": [
+   "Die Hantel mit dem Arm nach oben ziehen."
+  ]
+ },
+ {
+  "id": "schienbein-heben",
+  "name": "Schienbeinheben",
+  "pattern": "isolation",
+  "role": "isolation",
+  "level": 3,
+  "equipment": "Multipresse und Stufe",
+  "bodyweight": false,
+  "step": 2.5,
+  "primary": [
+   "schienbein"
+  ],
+  "secondary": [],
+  "source": "Smith_Machine_Reverse_Calf_Raises",
+  "setup": "Stell dich mit den Fersen auf eine Stufe, die Fußspitzen ragen frei. Die Stange der Multipresse liegt auf den Schultern.",
+  "steps": [
+   "Lass die Fußspitzen sinken.",
+   "Zieh die Fußspitzen so weit wie möglich nach oben.",
+   "Senk sie langsam."
+  ],
+  "cues": [
+   "Kleines Gewicht, viele Wiederholungen.",
+   "Ohne Gerät geht es auch mit dem Rücken an der Wand."
+  ],
+  "mistakes": [
+   "Mit den Knien wippen."
+  ]
+ }
+]

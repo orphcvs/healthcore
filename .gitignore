@@ -1,0 +1,5 @@
+tools/model/node_modules/
+tools/model/cache/
+.data/
+__pycache__/
+tools/exercises/cache/

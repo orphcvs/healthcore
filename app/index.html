@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>HealthCore</title>
+<meta name="theme-color" content="#000000">
+<script src="theme.js"></script>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top" id="top">
+  <a class="brand" href="#muskeln"><svg class="mark" viewBox="0 0 63 63" aria-hidden="true"><g fill="#fd6c51"><rect x="10" y="6" width="7" height="7"/><rect x="19" y="6" width="7" height="7"/><rect x="37" y="6" width="7" height="7"/><rect x="46" y="6" width="7" height="7"/><rect x="1" y="15" width="7" height="7"/><rect x="10" y="15" width="7" height="7" fill="#efe8dc"/><rect x="19" y="15" width="7" height="7"/><rect x="28" y="15" width="7" height="7"/><rect x="37" y="15" width="7" height="7"/><rect x="46" y="15" width="7" height="7"/><rect x="55" y="15" width="7" height="7"/><rect x="1" y="24" width="7" height="7"/><rect x="10" y="24" width="7" height="7"/><rect x="19" y="24" width="7" height="7"/><rect x="28" y="24" width="7" height="7"/><rect x="37" y="24" width="7" height="7"/><rect x="46" y="24" width="7" height="7"/><rect x="55" y="24" width="7" height="7"/><rect x="10" y="33" width="7" height="7"/><rect x="19" y="33" width="7" height="7"/><rect x="28" y="33" width="7" height="7"/><rect x="37" y="33" width="7" height="7"/><rect x="46" y="33" width="7" height="7"/><rect x="19" y="42" width="7" height="7"/><rect x="28" y="42" width="7" height="7"/><rect x="37" y="42" width="7" height="7"/><rect x="28" y="51" width="7" height="7"/></g></svg>HealthCore</a>
+  <nav class="nav" aria-label="Hauptnavigation">
+    <a href="#muskeln">Muskeln</a>
+    <a href="#plaene">Pläne</a>
+    <a href="#training">Training</a>
+    <a href="#verlauf">Verlauf</a>
+    <a href="#uebungen">Übungen</a>
+  </nav>
+  <button class="iconbtn gear" id="open-settings" aria-label="Einstellungen">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg>
+  </button>
+</header>
+<p class="banner" id="banner" role="status" hidden></p>
+<main id="main"></main>
+
+<section class="login" id="login" hidden>
+  <h1>Anmelden</h1>
+  <form id="login-form" class="stack">
+    <div class="field">
+      <label for="login-pw">Passwort</label>
+      <input id="login-pw" type="password" autocomplete="current-password" required>
+    </div>
+    <p class="note" id="login-error" role="alert" hidden></p>
+    <button class="btn primary" type="submit">Anmelden</button>
+  </form>
+</section>
+
+<dialog class="dialog" id="settings">
+  <form method="dialog" class="stack" id="settings-form">
+    <h2>Einstellungen</h2>
+    <fieldset class="field">
+      <legend>Erfahrung</legend>
+      <label class="choice"><input type="radio" name="experience" value="einsteiger"> Einsteiger</label>
+      <label class="choice"><input type="radio" name="experience" value="fortgeschritten"> Fortgeschritten</label>
+    </fieldset>
+    <div class="field">
+      <label for="set-level">Equipment-Vorgabe</label>
+      <select id="set-level" name="level">
+        <option value="1">Ohne Geräte</option>
+        <option value="2">Wenig Equipment</option>
+        <option value="3">Gym</option>
+      </select>
+    </div>
+    <label class="choice"><input type="checkbox" id="set-sound" name="sound"> Ton am Ende der Pause</label>
+    <label class="choice"><input type="checkbox" id="set-light" name="light"> Helles Design für draußen</label>
+    <div class="stack">
+      <p class="note" id="logout-warning" hidden></p>
+      <button class="btn" type="button" id="logout">Abmelden</button>
+    </div>
+    <p class="fine">3D-Daten: BodyParts3D, (c) The Database Center for Life Science, lizenziert unter
+      <a href="https://creativecommons.org/licenses/by-sa/2.1/jp/deed.de" target="_blank" rel="noopener">CC BY-SA 2.1 Japan</a>.
+      Symbole: Lucide (ISC). Übungsfotos: free-exercise-db. Schriften: Mona Sans, IBM Plex Mono (OFL).</p>
+    <button class="btn" value="close">Schließen</button>
+  </form>
+</dialog>
+
+<p class="toast" id="toast" role="status" hidden></p>
+<script type="module" src="app.js"></script>
+</body>
+</html>

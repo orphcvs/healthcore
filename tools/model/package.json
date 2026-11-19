@@ -1,0 +1,8 @@
+{
+  "name": "healthcore-model-build",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "meshoptimizer": "1.1.1"
+  }
+}
